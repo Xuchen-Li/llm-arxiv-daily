@@ -52,7 +52,7 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
+          commit-message: "Github Action Automatic Update LLM Arxiv Papers"
           files: README.md docs/llm-arxiv-daily.json docs/llm-arxiv-daily-web.json docs/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
