@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547](http://arxiv.org/abs/2412.18547)|**[link](https://github.com/geniushtx/tale)**|
 |**2024-12-23**|**StructTest: Benchmarking LLMs' Reasoning through Compositional Structured Outputs**|Hailin Chen et.al.|[2412.18011](http://arxiv.org/abs/2412.18011)|null|
-|**2024-12-22**|**Evaluating LLM Reasoning in the Operations Research Domain with ORQA**|Mahdi Mostajabdaveh et.al.|[2412.17874](http://arxiv.org/abs/2412.17874)|null|
+|**2024-12-22**|**Evaluating LLM Reasoning in the Operations Research Domain with ORQA**|Mahdi Mostajabdaveh et.al.|[2412.17874](http://arxiv.org/abs/2412.17874)|**[link](https://github.com/nl4opt/ORQA)**|
 |**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|**[link](https://github.com/visual-ai/prunevid)**|
 |**2024-12-19**|**Eliciting Causal Abilities in Large Language Models for Reasoning Tasks**|Yajing Wang et.al.|[2412.15314](http://arxiv.org/abs/2412.15314)|**[link](https://github.com/dsubuntu/scie)**|
 |**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|**[link](https://github.com/fcast07/cqot)**|
@@ -128,7 +128,7 @@
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
 |**2024-12-24**|**DeepCRCEval: Revisiting the Evaluation of Code Review Comment Generation**|Junyi Lu et.al.|[2412.18291](http://arxiv.org/abs/2412.18291)|null|
-|**2024-12-23**|**CARL-GT: Evaluating Causal Reasoning Capabilities of Large Language Models**|Ruibo Tu et.al.|[2412.17970](http://arxiv.org/abs/2412.17970)|null|
+|**2024-12-23**|**CARL-GT: Evaluating Causal Reasoning Capabilities of Large Language Models**|Ruibo Tu et.al.|[2412.17970](http://arxiv.org/abs/2412.17970)|**[link](https://github.com/turuibo/cautabbench)**|
 |**2024-12-17**|**Baichuan4-Finance Technical Report**|Hanyu Zhang et.al.|[2412.15270](http://arxiv.org/abs/2412.15270)|null|
 |**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|
 |**2024-12-18**|**AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge**|Xiaobao Wu et.al.|[2412.13670](http://arxiv.org/abs/2412.13670)|null|
@@ -238,7 +238,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-24**|**Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models**|Zehan Wang et.al.|[2412.18605](http://arxiv.org/abs/2412.18605)|null|
-|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|null|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|null|
 |**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600](http://arxiv.org/abs/2412.18600)|null|
 |**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
@@ -259,7 +259,7 @@
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
 |**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419](http://arxiv.org/abs/2412.18419)|null|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
-|**2024-12-24**|**Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English**|Avinash Anand et.al.|[2412.18415](http://arxiv.org/abs/2412.18415)|null|
+|**2024-12-24**|**Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English**|Avinash Anand et.al.|[2412.18415](http://arxiv.org/abs/2412.18415)|**[link](https://github.com/midas-research/Multilingual-Mathematical-Reasoning)**|
 |**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414](http://arxiv.org/abs/2412.18414)|null|
 |**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
 |**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|null|
@@ -283,7 +283,7 @@
 |**2024-12-24**|**Expand VSR Benchmark for VLLM to Expertize in Spatial Rules**|Peijin Xie et.al.|[2412.18224](http://arxiv.org/abs/2412.18224)|**[link](https://github.com/peijin360/vsre)**|
 |**2024-12-24**|**ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation**|Mengyang Wu et.al.|[2412.18216](http://arxiv.org/abs/2412.18216)|**[link](https://github.com/zhaoyuzhi/icm-assistant)**|
 |**2024-12-24**|**Adapting Large Language Models for Improving TCP Fairness over WiFi**|Shyam Kumar Shrestha et.al.|[2412.18200](http://arxiv.org/abs/2412.18200)|null|
-|**2024-12-24**|**Robustness-aware Automatic Prompt Optimization**|Zeru Shi et.al.|[2412.18196](http://arxiv.org/abs/2412.18196)|null|
+|**2024-12-24**|**Robustness-aware Automatic Prompt Optimization**|Zeru Shi et.al.|[2412.18196](http://arxiv.org/abs/2412.18196)|**[link](https://github.com/vanpe20/BATprompt)**|
 |**2024-12-24**|**VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**|Shiduo Zhang et.al.|[2412.18194](http://arxiv.org/abs/2412.18194)|null|
 |**2024-12-24**|**TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization**|Yucong Luo et.al.|[2412.18185](http://arxiv.org/abs/2412.18185)|null|
 |**2024-12-24**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
@@ -317,13 +317,13 @@
 |**2024-12-24**|**Lla-VAP: LSTM Ensemble of Llama and VAP for Turn-Taking Prediction**|Hyunbae Jeon et.al.|[2412.18061](http://arxiv.org/abs/2412.18061)|null|
 |**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060](http://arxiv.org/abs/2412.18060)|null|
 |**2024-12-23**|**Factuality or Fiction? Benchmarking Modern LLMs on Ambiguous QA with Citations**|Maya Patel et.al.|[2412.18051](http://arxiv.org/abs/2412.18051)|null|
-|**2024-12-23**|**AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**|Mirko Zaffaroni et.al.|[2412.18038](http://arxiv.org/abs/2412.18038)|null|
+|**2024-12-23**|**AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**|Mirko Zaffaroni et.al.|[2412.18038](http://arxiv.org/abs/2412.18038)|**[link](https://github.com/mirkozaff/aa-sgan)**|
 |**2024-12-23**|**Generating refactored code accurately using reinforcement learning**|Indranil Palit et.al.|[2412.18035](http://arxiv.org/abs/2412.18035)|null|
 |**2024-12-23**|**More than Chit-Chat: Developing Robots for Small-Talk Interactions**|Rebecca Ramnauth et.al.|[2412.18023](http://arxiv.org/abs/2412.18023)|null|
 |**2024-12-23**|**Trustworthy and Efficient LLMs Meet Databases**|Kyoungmin Kim et.al.|[2412.18022](http://arxiv.org/abs/2412.18022)|null|
 |**2024-12-23**|**StructTest: Benchmarking LLMs' Reasoning through Compositional Structured Outputs**|Hailin Chen et.al.|[2412.18011](http://arxiv.org/abs/2412.18011)|null|
-|**2024-12-23**|**CARL-GT: Evaluating Causal Reasoning Capabilities of Large Language Models**|Ruibo Tu et.al.|[2412.17970](http://arxiv.org/abs/2412.17970)|null|
-|**2024-12-23**|**LMV-RPA: Large Model Voting-based Robotic Process Automation**|Osama Abdellatif et.al.|[2412.17965](http://arxiv.org/abs/2412.17965)|null|
+|**2024-12-23**|**CARL-GT: Evaluating Causal Reasoning Capabilities of Large Language Models**|Ruibo Tu et.al.|[2412.17970](http://arxiv.org/abs/2412.17970)|**[link](https://github.com/turuibo/cautabbench)**|
+|**2024-12-23**|**LMV-RPA: Large Model Voting-based Robotic Process Automation**|Osama Abdellatif et.al.|[2412.17965](http://arxiv.org/abs/2412.17965)|**[link](https://github.com/AhmedAyman911/LMV-RPA)**|
 |**2024-12-23**|**Dynamic Multi-Agent Orchestration and Retrieval for Multi-Source Question-Answer Systems using Large Language Models**|Antony Seabra et.al.|[2412.17964](http://arxiv.org/abs/2412.17964)|null|
 |**2024-12-23**|**Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**|Ge Zhang et.al.|[2412.17963](http://arxiv.org/abs/2412.17963)|null|
 |**2024-12-23**|**Contrato360 2.0: A Document and Database-Driven Question-Answer System using Large Language Models and Agents**|Antony Seabra et.al.|[2412.17942](http://arxiv.org/abs/2412.17942)|null|
