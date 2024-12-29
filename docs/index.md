@@ -255,7 +255,7 @@ layout: default
 |**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|null|
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
 |**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Multi-Agents Based on Large Language Models for Knowledge-based Visual Question Answering**|Zhongjian Hu et.al.|[2412.18351](http://arxiv.org/abs/2412.18351)|null|
 |**2024-12-24**|**M-Ped: Multi-Prompt Ensemble Decoding for Large Language Models**|Jiaxin Guo et.al.|[2412.18299](http://arxiv.org/abs/2412.18299)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|**[link](https://github.com/Darcyddx/Video-LLM)**|
@@ -303,7 +303,7 @@ layout: default
 |**2024-12-24**|**Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**|Aizierjiang Aiersilan et.al.|[2412.18086](http://arxiv.org/abs/2412.18086)|**[link](https://github.com/Ezharjan/AutoSceneGen)**|
 |**2024-12-24**|**Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models**|Xuan Lin et.al.|[2412.18084](http://arxiv.org/abs/2412.18084)|**[link](https://github.com/chenlong164/peit)**|
 |**2024-12-24**|**Improving Factuality with Explicit Working Memory**|Mingda Chen et.al.|[2412.18069](http://arxiv.org/abs/2412.18069)|null|
-|**2024-12-24**|**LMRPA: Large Language Model-Driven Efficient Robotic Process Automation for OCR**|Osama Hosam Abdellaif et.al.|[2412.18063](http://arxiv.org/abs/2412.18063)|null|
+|**2024-12-24**|**LMRPA: Large Language Model-Driven Efficient Robotic Process Automation for OCR**|Osama Hosam Abdellaif et.al.|[2412.18063](http://arxiv.org/abs/2412.18063)|**[link](https://github.com/mad-sam22/erpa-ocr)**|
 |**2024-12-24**|**Lla-VAP: LSTM Ensemble of Llama and VAP for Turn-Taking Prediction**|Hyunbae Jeon et.al.|[2412.18061](http://arxiv.org/abs/2412.18061)|null|
 |**2024-12-24**|**An Ensemble Approach to Short-form Video Quality Assessment Using Multimodal LLM**|Wen Wen et.al.|[2412.18060](http://arxiv.org/abs/2412.18060)|null|
 |**2024-12-23**|**Factuality or Fiction? Benchmarking Modern LLMs on Ambiguous QA with Citations**|Maya Patel et.al.|[2412.18051](http://arxiv.org/abs/2412.18051)|null|
