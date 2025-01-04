@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -269,7 +269,7 @@ layout: default
 |**2024-12-30**|**UBER: Uncertainty-Based Evolution with Large Language Models for Automatic Heuristic Design**|Zijie Chen et.al.|[2412.20694](http://arxiv.org/abs/2412.20694)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682](http://arxiv.org/abs/2412.20682)|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
-|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|null|
+|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|**[link](https://github.com/lqzxt/ngtr)**|
 |**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651](http://arxiv.org/abs/2412.20651)|null|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641](http://arxiv.org/abs/2412.20641)|null|
 |**2024-12-30**|**Knowledge Editing for Large Language Model with Knowledge Neuronal Ensemble**|Yongchang Li et.al.|[2412.20637](http://arxiv.org/abs/2412.20637)|null|
@@ -285,7 +285,7 @@ layout: default
 |**2024-12-29**|**Goal-Conditioned Data Augmentation for Offline Reinforcement Learning**|Xingshuai Huang et.al.|[2412.20519](http://arxiv.org/abs/2412.20519)|null|
 |**2024-12-29**|**Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning**|Hang Ni et.al.|[2412.20505](http://arxiv.org/abs/2412.20505)|null|
 |**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
-|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|null|
+|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|**[link](https://github.com/aca-lab-sjtu/token-ring)**|
 |**2024-12-29**|**Multimodal Variational Autoencoder: a Barycentric View**|Peijie Qiu et.al.|[2412.20487](http://arxiv.org/abs/2412.20487)|null|
 |**2024-12-29**|**JADE: Joint-aware Latent Diffusion for 3D Human Generative Modeling**|Haorui Ji et.al.|[2412.20470](http://arxiv.org/abs/2412.20470)|null|
 |**2024-12-29**|**Improving Vision-Language-Action Models via Chain-of-Affordance**|Jinming Li et.al.|[2412.20451](http://arxiv.org/abs/2412.20451)|null|

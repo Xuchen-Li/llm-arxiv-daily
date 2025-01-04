@@ -1,4 +1,4 @@
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -121,7 +121,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250104>back to top</a>)</p>
 
 ## LLM Evaluation
 
@@ -234,7 +234,7 @@
 |**2024-10-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|**[link](https://github.com/ulrs0/MA-PO)**|
 |**2024-10-19**|**Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks**|Junseok Kim et.al.|[2408.08631](http://arxiv.org/abs/2408.08631)|null|
 
-<p align=right>(<a href=#updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250104>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -279,7 +279,7 @@
 |**2024-12-30**|**UBER: Uncertainty-Based Evolution with Large Language Models for Automatic Heuristic Design**|Zijie Chen et.al.|[2412.20694](http://arxiv.org/abs/2412.20694)|null|
 |**2024-12-30**|**Learning to Rank Pre-trained Vision-Language Models for Downstream Tasks**|Yuhe Ding et.al.|[2412.20682](http://arxiv.org/abs/2412.20682)|null|
 |**2024-12-30**|**Align Attention Heads Before Merging Them: An Effective Way for Converting MHA to GQA**|Qingyun Jin et.al.|[2412.20677](http://arxiv.org/abs/2412.20677)|null|
-|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|null|
+|**2024-12-30**|**Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner**|Yitong Zhou et.al.|[2412.20662](http://arxiv.org/abs/2412.20662)|**[link](https://github.com/lqzxt/ngtr)**|
 |**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651](http://arxiv.org/abs/2412.20651)|null|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641](http://arxiv.org/abs/2412.20641)|null|
 |**2024-12-30**|**Knowledge Editing for Large Language Model with Knowledge Neuronal Ensemble**|Yongchang Li et.al.|[2412.20637](http://arxiv.org/abs/2412.20637)|null|
@@ -295,7 +295,7 @@
 |**2024-12-29**|**Goal-Conditioned Data Augmentation for Offline Reinforcement Learning**|Xingshuai Huang et.al.|[2412.20519](http://arxiv.org/abs/2412.20519)|null|
 |**2024-12-29**|**Planning, Living and Judging: A Multi-agent LLM-based Framework for Cyclical Urban Planning**|Hang Ni et.al.|[2412.20505](http://arxiv.org/abs/2412.20505)|null|
 |**2024-12-29**|**ReTaKe: Reducing Temporal and Knowledge Redundancy for Long Video Understanding**|Xiao Wang et.al.|[2412.20504](http://arxiv.org/abs/2412.20504)|**[link](https://github.com/sczwangxiao/video-retake)**|
-|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|null|
+|**2024-12-29**|**TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication**|Zongwu Wang et.al.|[2412.20501](http://arxiv.org/abs/2412.20501)|**[link](https://github.com/aca-lab-sjtu/token-ring)**|
 |**2024-12-29**|**Multimodal Variational Autoencoder: a Barycentric View**|Peijie Qiu et.al.|[2412.20487](http://arxiv.org/abs/2412.20487)|null|
 |**2024-12-29**|**JADE: Joint-aware Latent Diffusion for 3D Human Generative Modeling**|Haorui Ji et.al.|[2412.20470](http://arxiv.org/abs/2412.20470)|null|
 |**2024-12-29**|**Improving Vision-Language-Action Models via Chain-of-Affordance**|Jinming Li et.al.|[2412.20451](http://arxiv.org/abs/2412.20451)|null|
@@ -819,7 +819,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250104>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -965,5 +965,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250104>back to top</a>)</p>
 
