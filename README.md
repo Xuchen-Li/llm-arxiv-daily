@@ -247,7 +247,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426](http://arxiv.org/abs/2501.01426)|null|
-|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|null|
+|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|**[link](https://github.com/hustvl/LightningDiT)**|
 |**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422](http://arxiv.org/abs/2501.01422)|null|
 |**2025-01-02**|**Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers**|Seunghyun Lee et.al.|[2501.01414](http://arxiv.org/abs/2501.01414)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
@@ -289,7 +289,7 @@
 |**2025-01-02**|**ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextual Learning**|Wonduk Seo et.al.|[2501.01031](http://arxiv.org/abs/2501.01031)|null|
 |**2025-01-02**|**KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model**|Xinshuo Hu et.al.|[2501.01028](http://arxiv.org/abs/2501.01028)|**[link](https://github.com/HITsz-TMG/KaLM-Embedding)**|
 |**2025-01-02**|**MDSF: Context-Aware Multi-Dimensional Data Storytelling Framework based on Large language Model**|Chengze Zhang et.al.|[2501.01014](http://arxiv.org/abs/2501.01014)|null|
-|**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|null|
+|**2025-01-02**|**FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving**|Zihao Ye et.al.|[2501.01005](http://arxiv.org/abs/2501.01005)|**[link](https://github.com/flashinfer-ai/flashinfer)**|
 |**2025-01-02**|**Exploring Information Processing in Large Language Models: Insights from Information Bottleneck Theory**|Zhou Yang et.al.|[2501.00999](http://arxiv.org/abs/2501.00999)|null|
 |**2025-01-02**|**Optimizing Noise Schedules of Generative Models in High Dimensionss**|Santiago Aranguri et.al.|[2501.00988](http://arxiv.org/abs/2501.00988)|null|
 |**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982](http://arxiv.org/abs/2501.00982)|null|
@@ -299,7 +299,7 @@
 |**2025-01-01**|**SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering**|Shihab Ahmed et.al.|[2501.00940](http://arxiv.org/abs/2501.00940)|null|
 |**2025-01-01**|**Diffusion Policies for Generative Modeling of Spacecraft Trajectories**|Julia Briden et.al.|[2501.00915](http://arxiv.org/abs/2501.00915)|null|
 |**2025-01-01**|**Aligning LLMs with Domain Invariant Reward Models**|David Wu et.al.|[2501.00911](http://arxiv.org/abs/2501.00911)|null|
-|**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|null|
+|**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|**[link](https://github.com/wmd3i/PaD-TS)**|
 |**2025-01-01**|**Large Language Model Based Multi-Agent System Augmented Complex Event Processing Pipeline for Internet of Multimedia Things**|Talha Zeeshan et.al.|[2501.00906](http://arxiv.org/abs/2501.00906)|null|
 |**2025-01-01**|**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**|Chenyang Liu et.al.|[2501.00895](http://arxiv.org/abs/2501.00895)|null|
 |**2025-01-01**|**Evaluating Time Series Foundation Models on Noisy Periodic Time Series**|Syamantak Datta Gupta et.al.|[2501.00889](http://arxiv.org/abs/2501.00889)|null|
