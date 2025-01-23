@@ -319,7 +319,7 @@
 |**2025-01-21**|**Empowering AIOps: Leveraging Large Language Models for IT Operations ManagementOperations Management**|Arthur Vitui et.al.|[2501.12461](http://arxiv.org/abs/2501.12461)|null|
 |**2025-01-21**|**Deploying Privacy Guardrails for LLMs: A Comparative Analysis of Real-World Applications**|Shubhi Asthana et.al.|[2501.12456](http://arxiv.org/abs/2501.12456)|null|
 |**2025-01-21**|**Divide-Then-Aggregate: An Efficient Tool Learning Method via Parallel Tool Invocation**|Dongsheng Zhu et.al.|[2501.12432](http://arxiv.org/abs/2501.12432)|null|
-|**2025-01-21**|**FREYR: A Framework for Recognizing and Executing Your Requests**|Roberto Gallotta et.al.|[2501.12423](http://arxiv.org/abs/2501.12423)|null|
+|**2025-01-21**|**FREYR: A Framework for Recognizing and Executing Your Requests**|Roberto Gallotta et.al.|[2501.12423](http://arxiv.org/abs/2501.12423)|**[link](https://github.com/gallorob/freyr)**|
 |**2025-01-21**|**CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning**|Eunjee Choi et.al.|[2501.12422](http://arxiv.org/abs/2501.12422)|null|
 |**2025-01-22**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-21**|**Accelerating Pulsar Parameter Estimation Using Convolutional Neural Networks**|Greg Olmschenk et.al.|[2501.12383](http://arxiv.org/abs/2501.12383)|null|
