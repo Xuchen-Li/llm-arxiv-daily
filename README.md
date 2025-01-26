@@ -200,7 +200,7 @@
 |**2024-10-23**|**MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning**|Jingfan Zhang et.al.|[2410.18035](http://arxiv.org/abs/2410.18035)|null|
 |**2024-10-25**|**Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements**|Isamu Isozaki et.al.|[2410.17141](http://arxiv.org/abs/2410.17141)|**[link](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)**|
 |**2024-10-21**|**CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**|Maosong Cao et.al.|[2410.16256](http://arxiv.org/abs/2410.16256)|**[link](https://github.com/open-compass/compassjudger)**|
-|**2024-10-19**|**mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models for Code Generation**|Nishat Raihan et.al.|[2410.15037](http://arxiv.org/abs/2410.15037)|null|
+|**2024-10-19**|**mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models for Code Generation**|Nishat Raihan et.al.|[2410.15037](http://arxiv.org/abs/2410.15037)|**[link](https://github.com/mraihan-gmu/mHumanEval-Benchmark)**|
 |**2024-10-19**|**CAP: Data Contamination Detection via Consistency Amplification**|Yi Zhao et.al.|[2410.15005](http://arxiv.org/abs/2410.15005)|null|
 |**2024-10-18**|**Enabling Scalable Evaluation of Bias Patterns in Medical LLMs**|Hamed Fayyaz et.al.|[2410.14763](http://arxiv.org/abs/2410.14763)|**[link](https://github.com/healthylaife/autofair)**|
 |**2024-11-06**|**Diverging Preferences: When do Annotators Disagree and do Models Know?**|Michael JQ Zhang et.al.|[2410.14632](http://arxiv.org/abs/2410.14632)|null|
