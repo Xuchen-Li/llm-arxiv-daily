@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -72,7 +72,7 @@ layout: default
 |**2024-11-12**|**Kwai-STaR: Transform LLMs into State-Transition Reasoners**|Xingyu Lu et.al.|[2411.04799](http://arxiv.org/abs/2411.04799)|null|
 |**2024-11-21**|**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**|Haolin Chen et.al.|[2411.04282](http://arxiv.org/abs/2411.04282)|**[link](https://github.com/salesforceairesearch/latro)**|
 |**2024-11-05**|**CrowdGenUI: Enhancing LLM-Based UI Widget Generation with a Crowdsourced Preference Library**|Yimeng Liu et.al.|[2411.03477](http://arxiv.org/abs/2411.03477)|null|
-|**2024-11-05**|**MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs**|Manar Abdelatty et.al.|[2411.03471](http://arxiv.org/abs/2411.03471)|null|
+|**2024-11-05**|**MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs**|Manar Abdelatty et.al.|[2411.03471](http://arxiv.org/abs/2411.03471)|**[link](https://github.com/scale-lab/MetRex)**|
 |**2024-11-04**|**RuAG: Learned-rule-augmented Generation for Large Language Models**|Yudi Zhang et.al.|[2411.03349](http://arxiv.org/abs/2411.03349)|null|
 |**2024-10-30**|**Vision-Language Models Can Self-Improve Reasoning via Reflection**|Kanzhi Cheng et.al.|[2411.00855](http://arxiv.org/abs/2411.00855)|null|
 |**2024-11-01**|**Mitigating Tail Narrowing in LLM Self-Improvement via Socratic-Guided Sampling**|Yiwen Ding et.al.|[2411.00750](http://arxiv.org/abs/2411.00750)|**[link](https://github.com/yiwen-ding/guided-self-improvement)**|
