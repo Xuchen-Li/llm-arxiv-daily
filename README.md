@@ -297,15 +297,15 @@
 |**2025-01-30**|**CLEAR: Cue Learning using Evolution for Accurate Recognition Applied to Sustainability Data Extraction**|Peter J. Bentley et.al.|[2501.18504](http://arxiv.org/abs/2501.18504)|null|
 |**2025-01-30**|**Examining the Expanding Role of Synthetic Data Throughout the AI Development Pipeline**|Shivani Kapania et.al.|[2501.18493](http://arxiv.org/abs/2501.18493)|null|
 |**2025-01-30**|**A Tool for In-depth Analysis of Code Execution Reasoning of Large Language Models**|Changshu Liu et.al.|[2501.18482](http://arxiv.org/abs/2501.18482)|null|
-|**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|**[link](https://github.com/AozhongZhang/CLoQ)**|
+|**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|null|
 |**2025-01-30**|**Tuning Vision Foundation Model via Test-Time Prompt-Guided Training for VFSS Segmentations**|Chengxi Zeng et.al.|[2501.18474](http://arxiv.org/abs/2501.18474)|null|
 |**2025-01-30**|**ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation**|Minghua He et.al.|[2501.18460](http://arxiv.org/abs/2501.18460)|null|
-|**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457](http://arxiv.org/abs/2501.18457)|**[link](https://github.com/Alexwwwwww/CALM)**|
+|**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457](http://arxiv.org/abs/2501.18457)|null|
 |**2025-01-30**|**GENIE: Generative Note Information Extraction model for structuring EHR data**|Huaiyuan Ying et.al.|[2501.18435](http://arxiv.org/abs/2501.18435)|null|
 |**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
 |**2025-01-30**|**RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects**|Yiteng Tu et.al.|[2501.18365](http://arxiv.org/abs/2501.18365)|**[link](https://github.com/StibiumT16/Robust-Fine-tuning)**|
-|**2025-01-30**|**A Video-grounded Dialogue Dataset and Metric for Event-driven Activities**|Wiradee Imrattanatrai et.al.|[2501.18324](http://arxiv.org/abs/2501.18324)|null|
-|**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320](http://arxiv.org/abs/2501.18320)|**[link](https://github.com/advantages/MAG-RAG-for-SASP)**|
+|**2025-01-30**|**A Video-grounded Dialogue Dataset and Metric for Event-driven Activities**|Wiradee Imrattanatrai et.al.|[2501.18324](http://arxiv.org/abs/2501.18324)|**[link](https://github.com/aistairc/VDAct)**|
+|**2025-01-30**|**Leveraging LLM Agents for Automated Optimization Modeling for SASP Problems: A Graph-RAG based Approach**|Tianpeng Pan et.al.|[2501.18320](http://arxiv.org/abs/2501.18320)|null|
 |**2025-01-30**|**Mining for Species, Locations, Habitats, and Ecosystems from Scientific Papers in Invasion Biology: A Large-Scale Exploratory Study with Large Language Models**|Jennifer D'Souza et.al.|[2501.18287](http://arxiv.org/abs/2501.18287)|null|
 |**2025-01-30**|**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models**|Haoyu Liang et.al.|[2501.18280](http://arxiv.org/abs/2501.18280)|null|
 |**2025-01-30**|**Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence**|Kevin Roitero et.al.|[2501.18265](http://arxiv.org/abs/2501.18265)|null|
@@ -330,7 +330,7 @@
 |**2025-01-29**|**Large Language Models Think Too Fast To Explore Effectively**|Lan Pan et.al.|[2501.18009](http://arxiv.org/abs/2501.18009)|null|
 |**2025-01-29**|**Fault Localization via Fine-tuning Large Language Models with Mutation Generated Stack Traces**|Neetha Jambigi et.al.|[2501.18005](http://arxiv.org/abs/2501.18005)|null|
 |**2025-01-29**|**InnerThoughts: Disentangling Representations and Predictions in Large Language Models**|Didier Chételat et.al.|[2501.17994](http://arxiv.org/abs/2501.17994)|null|
-|**2025-01-29**|**Can Generative LLMs Create Query Variants for Test Collections? An Exploratory Study**|Marwah Alaofi et.al.|[2501.17981](http://arxiv.org/abs/2501.17981)|null|
+|**2025-01-29**|**Can Generative LLMs Create Query Variants for Test Collections? An Exploratory Study**|Marwah Alaofi et.al.|[2501.17981](http://arxiv.org/abs/2501.17981)|**[link](https://github.com/MarwahAlaofi/SIGIR-23-SRP-UQV100-GPT-Query-Variants)**|
 |**2025-01-29**|**Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization**|Zishun Yu et.al.|[2501.17974](http://arxiv.org/abs/2501.17974)|null|
 |**2025-01-29**|**"I Would Never Trust Anything Western": Kumu (Educator) Perspectives on Use of LLMs for Culturally Revitalizing CS Education in Hawaiian Schools**|Manas Mhasakar et.al.|[2501.17942](http://arxiv.org/abs/2501.17942)|null|
 |**2025-01-29**|**DReSS: Data-driven Regularized Structured Streamlining for Large Language Models**|Mingkuan Feng et.al.|[2501.17905](http://arxiv.org/abs/2501.17905)|null|
