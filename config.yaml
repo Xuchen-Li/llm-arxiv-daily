@@ -18,7 +18,7 @@ md_gitpage_path: './docs/index.md'
 # keywords to search
 keywords:
     "LLM Reasoning":
-        filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning"]
+        filters: ["LLM Reasoning", "LLM Thinking", "LLM Causal Reasoning", "LLM Commonsense Reasoning", "LLM Logical Reasoning", "Multimodal Reasoning", "MLLM Reasoning", "VLM Reasoning", "Multimodal LLM Reasoning"]
     "LLM Evaluation":
         filters: ["LLM Evaluation", "Benchmark", "Vision-Language Benchmark", "LLM Benchmark", "LLM Evaluation Metric", "LLM Evaluation Protocol", "LLM Evaluation Dataset"]
     "LLM MLLM":
