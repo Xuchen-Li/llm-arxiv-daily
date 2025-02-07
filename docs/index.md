@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -79,7 +79,7 @@ layout: default
 |**2024-12-13**|**EVLM: Self-Reflective Multimodal Reasoning for Cross-Dimensional Visual Editing**|Umar Khalid et.al.|[2412.10566](http://arxiv.org/abs/2412.10566)|null|
 |**2024-12-13**|**Atomic Learning Objectives Labeling: A High-Resolution Approach for Physics Education**|Naiming Liu et.al.|[2412.09914](http://arxiv.org/abs/2412.09914)|null|
 |**2025-01-18**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
-|**2025-02-04**|**Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning**|Zhenni Bi et.al.|[2412.09078](http://arxiv.org/abs/2412.09078)|null|
+|**2025-02-04**|**Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning**|Zhenni Bi et.al.|[2412.09078](http://arxiv.org/abs/2412.09078)|**[link](https://github.com/iamhankai/Forest-of-Thought)**|
 |**2024-12-11**|**Training Large Language Models to Reason in a Continuous Latent Space**|Shibo Hao et.al.|[2412.06769](http://arxiv.org/abs/2412.06769)|null|
 |**2025-01-23**|**GameArena: Evaluating LLM Reasoning through Live Computer Games**|Lanxiang Hu et.al.|[2412.06394](http://arxiv.org/abs/2412.06394)|null|
 |**2024-12-08**|**Language hooks: a modular framework for augmenting LLM reasoning that decouples tool usage from the model and its prompt**|Damien de Mijolla et.al.|[2412.05967](http://arxiv.org/abs/2412.05967)|null|
