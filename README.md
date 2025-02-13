@@ -434,7 +434,7 @@
 |**2025-02-11**|**DeepSeek on a Trip: Inducing Targeted Visual Hallucinations via Representation Vulnerabilities**|Chashi Mahiul Islam et.al.|[2502.07905](http://arxiv.org/abs/2502.07905)|null|
 |**2025-02-11**|**Intelligent Legal Assistant: An Interactive Clarification System for Legal Question Answering**|Rujing Yao et.al.|[2502.07904](http://arxiv.org/abs/2502.07904)|null|
 |**2025-02-11**|**HexGen-2: Disaggregated Generative Inference of LLMs in Heterogeneous Environment**|Youhe Jiang et.al.|[2502.07903](http://arxiv.org/abs/2502.07903)|null|
-|**2025-02-11**|**TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation**|Alex Jinpeng Wang et.al.|[2502.07870](http://arxiv.org/abs/2502.07870)|null|
+|**2025-02-11**|**TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation**|Alex Jinpeng Wang et.al.|[2502.07870](http://arxiv.org/abs/2502.07870)|**[link](https://github.com/CSU-JPG/TextAtlas)**|
 |**2025-02-11**|**TransMLA: Multi-head Latent Attention Is All You Need**|Fanxu Meng et.al.|[2502.07864](http://arxiv.org/abs/2502.07864)|null|
 |**2025-02-11**|**BalanceKV: KV Cache Compression through Discrepancy Theory**|Insu Han et.al.|[2502.07861](http://arxiv.org/abs/2502.07861)|null|
 |**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
