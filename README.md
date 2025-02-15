@@ -21,7 +21,7 @@
 |**2025-02-07**|**Self-Supervised Prompt Optimization**|Jinyu Xiang et.al.|[2502.06855](http://arxiv.org/abs/2502.06855)|**[link](https://github.com/geekan/metagpt)**|
 |**2025-02-06**|**Vision-Integrated LLMs for Autonomous Driving Assistance : Human Performance Comparison and Trust Evaluation**|Namhee Kim et.al.|[2502.06843](http://arxiv.org/abs/2502.06843)|null|
 |**2025-02-04**|**Policy Guided Tree Search for Enhanced LLM Reasoning**|Yang Li et.al.|[2502.06813](http://arxiv.org/abs/2502.06813)|null|
-|**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/abs/2502.06772)|null|
+|**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/abs/2502.06772)|**[link](https://github.com/gen-verse/reasonflux)**|
 |**2025-02-10**|**Resurrecting saturated LLM benchmarks with adversarial encoding**|Igor Ivanov et.al.|[2502.06738](http://arxiv.org/abs/2502.06738)|null|
 |**2025-02-13**|**LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**|Zhi Zhou et.al.|[2502.06572](http://arxiv.org/abs/2502.06572)|null|
 |**2025-02-09**|**A Generative Framework for Bidirectional Image-Report Understanding in Chest Radiography**|Nicholas Evans et.al.|[2502.05926](http://arxiv.org/abs/2502.05926)|null|
@@ -211,8 +211,8 @@
 |---|---|---|---|---|
 |**2025-02-13**|**Copilot Arena: A Platform for Code LLM Evaluation in the Wild**|Wayne Chi et.al.|[2502.09328](http://arxiv.org/abs/2502.09328)|null|
 |**2025-02-12**|**Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?**|Jiahe Jin et.al.|[2502.08503](http://arxiv.org/abs/2502.08503)|null|
-|**2025-02-11**|**Forget What You Know about LLMs Evaluations - LLMs are Like a Chameleon**|Nurit Cohen-Inger et.al.|[2502.07445](http://arxiv.org/abs/2502.07445)|null|
-|**2025-02-10**|**Evaluating the Systematic Reasoning Abilities of Large Language Models through Graph Coloring**|Alex Heyman et.al.|[2502.07087](http://arxiv.org/abs/2502.07087)|null|
+|**2025-02-11**|**Forget What You Know about LLMs Evaluations - LLMs are Like a Chameleon**|Nurit Cohen-Inger et.al.|[2502.07445](http://arxiv.org/abs/2502.07445)|**[link](https://github.com/SeffiCohen/CBOD)**|
+|**2025-02-10**|**Evaluating the Systematic Reasoning Abilities of Large Language Models through Graph Coloring**|Alex Heyman et.al.|[2502.07087](http://arxiv.org/abs/2502.07087)|**[link](https://github.com/AlexHeyman/LLMGraphColoring)**|
 |**2025-02-10**|**Multi-turn Evaluation of Anthropomorphic Behaviours in Large Language Models**|Lujain Ibrahim et.al.|[2502.07077](http://arxiv.org/abs/2502.07077)|null|
 |**2025-02-07**|**LLM-Supported Natural Language to Bash Translation**|Finnian Westenfelder et.al.|[2502.06858](http://arxiv.org/abs/2502.06858)|**[link](https://github.com/westenfelder/NL2SH)**|
 |**2025-02-07**|**Self-Supervised Prompt Optimization**|Jinyu Xiang et.al.|[2502.06855](http://arxiv.org/abs/2502.06855)|**[link](https://github.com/geekan/metagpt)**|
@@ -3228,7 +3228,7 @@
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|**[link](https://github.com/da-group-pku/magic-1-for-1)**|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
-|**2025-02-13**|**Enhance-A-Video: Better Generated Video for Free**|Yang Luo et.al.|[2502.07508](http://arxiv.org/abs/2502.07508)|null|
+|**2025-02-13**|**Enhance-A-Video: Better Generated Video for Free**|Yang Luo et.al.|[2502.07508](http://arxiv.org/abs/2502.07508)|**[link](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video)**|
 |**2025-02-11**|**EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering**|Sheng Zhou et.al.|[2502.07411](http://arxiv.org/abs/2502.07411)|**[link](https://github.com/zhousheng97/egotextvqa)**|
 |**2025-02-11**|**Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos**|Haowen Gao et.al.|[2502.07327](http://arxiv.org/abs/2502.07327)|null|
 |**2025-02-11**|**Articulate That Object Part (ATOP): 3D Part Articulation from Text and Motion Personalization**|Aditya Vora et.al.|[2502.07278](http://arxiv.org/abs/2502.07278)|null|
@@ -3237,7 +3237,7 @@
 |**2025-02-11**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
 |**2025-02-10**|**Lotus: Creating Short Videos From Long Videos With Abstractive and Extractive Summarization**|Aadit Barua et.al.|[2502.07096](http://arxiv.org/abs/2502.07096)|null|
 |**2025-02-10**|**Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**|Behzad Hejrati et.al.|[2502.06997](http://arxiv.org/abs/2502.06997)|**[link](https://github.com/hejrati/cdal)**|
-|**2025-02-06**|**TorchResist: Open-Source Differentiable Resist Simulator**|Zixiao Wang et.al.|[2502.06838](http://arxiv.org/abs/2502.06838)|null|
+|**2025-02-06**|**TorchResist: Open-Source Differentiable Resist Simulator**|Zixiao Wang et.al.|[2502.06838](http://arxiv.org/abs/2502.06838)|**[link](https://github.com/ShiningSord/TorchResist)**|
 |**2025-02-04**|**Harness Local Rewards for Global Benefits: Effective Text-to-Video Generation Alignment with Patch-level Reward Models**|Shuting Wang et.al.|[2502.06812](http://arxiv.org/abs/2502.06812)|null|
 |**2025-02-12**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
 |**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764](http://arxiv.org/abs/2502.06764)|null|
