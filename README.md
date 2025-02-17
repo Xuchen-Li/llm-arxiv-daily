@@ -25,7 +25,7 @@
 |**2025-02-04**|**Policy Guided Tree Search for Enhanced LLM Reasoning**|Yang Li et.al.|[2502.06813](http://arxiv.org/abs/2502.06813)|null|
 |**2025-02-10**|**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**|Ling Yang et.al.|[2502.06772](http://arxiv.org/abs/2502.06772)|**[link](https://github.com/gen-verse/reasonflux)**|
 |**2025-02-10**|**Resurrecting saturated LLM benchmarks with adversarial encoding**|Igor Ivanov et.al.|[2502.06738](http://arxiv.org/abs/2502.06738)|null|
-|**2025-02-13**|**LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**|Zhi Zhou et.al.|[2502.06572](http://arxiv.org/abs/2502.06572)|null|
+|**2025-02-13**|**LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM**|Zhi Zhou et.al.|[2502.06572](http://arxiv.org/abs/2502.06572)|**[link](https://github.com/LAMDASZ-ML/Knowledge-Guide-Data-Generation)**|
 |**2025-02-09**|**A Generative Framework for Bidirectional Image-Report Understanding in Chest Radiography**|Nicholas Evans et.al.|[2502.05926](http://arxiv.org/abs/2502.05926)|null|
 |**2025-02-08**|**Evaluating Vision-Language Models for Emotion Recognition**|Sree Bhattacharyya et.al.|[2502.05660](http://arxiv.org/abs/2502.05660)|null|
 |**2025-02-07**|**GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity?**|Yang Zhou et.al.|[2502.05252](http://arxiv.org/abs/2502.05252)|null|
@@ -216,7 +216,7 @@
 |**2025-02-13**|**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs**|Semyon Savkin et.al.|[2502.09720](http://arxiv.org/abs/2502.09720)|null|
 |**2025-02-12**|**The Science of Evaluating Foundation Models**|Jiayi Yuan et.al.|[2502.09670](http://arxiv.org/abs/2502.09670)|null|
 |**2025-02-13**|**Copilot Arena: A Platform for Code LLM Evaluation in the Wild**|Wayne Chi et.al.|[2502.09328](http://arxiv.org/abs/2502.09328)|null|
-|**2025-02-12**|**Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?**|Jiahe Jin et.al.|[2502.08503](http://arxiv.org/abs/2502.08503)|null|
+|**2025-02-12**|**Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?**|Jiahe Jin et.al.|[2502.08503](http://arxiv.org/abs/2502.08503)|**[link](https://github.com/llm-class-group/revisiting-3d-llm-benchmarks)**|
 |**2025-02-11**|**Forget What You Know about LLMs Evaluations - LLMs are Like a Chameleon**|Nurit Cohen-Inger et.al.|[2502.07445](http://arxiv.org/abs/2502.07445)|**[link](https://github.com/SeffiCohen/CBOD)**|
 |**2025-02-10**|**Evaluating the Systematic Reasoning Abilities of Large Language Models through Graph Coloring**|Alex Heyman et.al.|[2502.07087](http://arxiv.org/abs/2502.07087)|**[link](https://github.com/AlexHeyman/LLMGraphColoring)**|
 |**2025-02-10**|**Multi-turn Evaluation of Anthropomorphic Behaviours in Large Language Models**|Lujain Ibrahim et.al.|[2502.07077](http://arxiv.org/abs/2502.07077)|null|
@@ -453,11 +453,11 @@
 |**2025-02-13**|**NestQuant: Nested Lattice Quantization for Matrix Products and LLMs**|Semyon Savkin et.al.|[2502.09720](http://arxiv.org/abs/2502.09720)|null|
 |**2025-02-13**|**Genetic Data Governance in Crisis: Policy Recommendations for Safeguarding Privacy and Preventing Discrimination**|Vivek Ramanan et.al.|[2502.09716](http://arxiv.org/abs/2502.09716)|null|
 |**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/abs/2502.09621)|null|
-|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|**[link](https://github.com/ivan-tang-3d/enel)**|
 |**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611](http://arxiv.org/abs/2502.09611)|null|
 |**2025-02-14**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple via Score Estimation of Mixture Distributions**|Tejas Jayashankar et.al.|[2502.09609](http://arxiv.org/abs/2502.09609)|null|
 |**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606](http://arxiv.org/abs/2502.09606)|null|
-|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604](http://arxiv.org/abs/2502.09604)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604](http://arxiv.org/abs/2502.09604)|**[link](https://github.com/voidism/selfcite)**|
 |**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
 |**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596](http://arxiv.org/abs/2502.09596)|null|
 |**2025-02-13**|**Logical forms complement probability in understanding language model (and human) performance**|Yixuan Wang et.al.|[2502.09589](http://arxiv.org/abs/2502.09589)|null|
