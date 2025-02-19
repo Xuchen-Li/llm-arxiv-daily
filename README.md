@@ -444,7 +444,7 @@
 |**2025-02-18**|**Q-STRUM Debate: Query-Driven Contrastive Summarization for Recommendation Comparison**|George-Kirollos Saad et.al.|[2502.12921](http://arxiv.org/abs/2502.12921)|null|
 |**2025-02-18**|**Lightweight Online Adaption for Time Series Foundation Model Forecasts**|Thomas L. Lee et.al.|[2502.12920](http://arxiv.org/abs/2502.12920)|null|
 |**2025-02-18**|**GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning**|Sifan Zhou et.al.|[2502.12913](http://arxiv.org/abs/2502.12913)|null|
-|**2025-02-18**|**Probabilistic neural operators for functional uncertainty quantification**|Christopher Bülte et.al.|[2502.12902](http://arxiv.org/abs/2502.12902)|null|
+|**2025-02-18**|**Probabilistic neural operators for functional uncertainty quantification**|Christopher Bülte et.al.|[2502.12902](http://arxiv.org/abs/2502.12902)|**[link](https://github.com/cbuelt/pfno)**|
 |**2025-02-18**|**Soundwave: Less is More for Speech-Text Alignment in LLMs**|Yuhao Zhang et.al.|[2502.12900](http://arxiv.org/abs/2502.12900)|null|
 |**2025-02-18**|**Multilingual European Language Models: Benchmarking Approaches and Challenges**|Fabio Barth et.al.|[2502.12895](http://arxiv.org/abs/2502.12895)|null|
 |**2025-02-18**|**CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image**|Kaixin Yao et.al.|[2502.12894](http://arxiv.org/abs/2502.12894)|null|
@@ -3558,7 +3558,7 @@
 |**2025-02-16**|**Phantom: Subject-consistent video generation via cross-modal alignment**|Lijie Liu et.al.|[2502.11079](http://arxiv.org/abs/2502.11079)|null|
 |**2025-02-15**|**SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding**|Zhenyu Yang et.al.|[2502.10810](http://arxiv.org/abs/2502.10810)|null|
 |**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724](http://arxiv.org/abs/2502.10724)|null|
-|**2025-02-17**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|null|
+|**2025-02-17**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248](http://arxiv.org/abs/2502.10248)|**[link](https://github.com/stepfun-ai/step-video-t2v)**|
 |**2025-02-14**|**RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control**|Teng Li et.al.|[2502.10059](http://arxiv.org/abs/2502.10059)|null|
 |**2025-02-14**|**Optimizing GPT for Video Understanding: Zero-Shot Performance and Prompt Engineering**|Mark Beliaev et.al.|[2502.09573](http://arxiv.org/abs/2502.09573)|null|
 |**2025-02-14**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268](http://arxiv.org/abs/2502.09268)|null|
