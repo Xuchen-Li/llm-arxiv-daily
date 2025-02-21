@@ -464,7 +464,7 @@ layout: default
 |**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|null|
 |**2025-02-20**|**Optimal word order for non-causal text generation with Large Language Models: the Spanish case**|Andrea Busto-Castiñeira et.al.|[2502.14451](http://arxiv.org/abs/2502.14451)|null|
 |**2025-02-20**|**LLM4FaaS: No-Code Application Development using LLMs and FaaS**|Minghe Wang et.al.|[2502.14450](http://arxiv.org/abs/2502.14450)|null|
-|**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445](http://arxiv.org/abs/2502.14445)|null|
+|**2025-02-20**|**PredictaBoard: Benchmarking LLM Score Predictability**|Lorenzo Pacchiardi et.al.|[2502.14445](http://arxiv.org/abs/2502.14445)|**[link](https://github.com/Kinds-of-Intelligence-CFI/PredictaBoard)**|
 |**2025-02-20**|**Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models**|Artem Vazhentsev et.al.|[2502.14427](http://arxiv.org/abs/2502.14427)|null|
 |**2025-02-20**|**A Survey on Data Contamination for Large Language Models**|Yuxing Cheng et.al.|[2502.14425](http://arxiv.org/abs/2502.14425)|null|
 |**2025-02-20**|**ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model**|Zhongyi Zhou et.al.|[2502.14420](http://arxiv.org/abs/2502.14420)|null|
