@@ -26,7 +26,7 @@ layout: default
 |**2025-02-19**|**SIFT: Grounding LLM Reasoning in Contexts via Stickers**|Zihao Zeng et.al.|[2502.14922](http://arxiv.org/abs/2502.14922)|null|
 |**2025-02-18**|**Think Inside the JSON: Reinforcement Strategy for Strict LLM Schema Adherence**|Bhavik Agarwal et.al.|[2502.14905](http://arxiv.org/abs/2502.14905)|null|
 |**2025-02-20**|**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**|Aiswarya Baby et.al.|[2502.14827](http://arxiv.org/abs/2502.14827)|null|
-|**2025-02-20**|**Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning**|Tian Xie et.al.|[2502.14768](http://arxiv.org/abs/2502.14768)|null|
+|**2025-02-20**|**Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning**|Tian Xie et.al.|[2502.14768](http://arxiv.org/abs/2502.14768)|**[link](https://github.com/Unakar/Logic-RL)**|
 |**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
 |**2025-02-19**|**MCTS-KBQA: Monte Carlo Tree Search for Knowledge Base Question Answering**|Guanming Xiong et.al.|[2502.13428](http://arxiv.org/abs/2502.13428)|null|
 |**2025-02-19**|**MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**|Linzhuang Sun et.al.|[2502.13383](http://arxiv.org/abs/2502.13383)|**[link](https://github.com/aurora-slz/mm-verify)**|
