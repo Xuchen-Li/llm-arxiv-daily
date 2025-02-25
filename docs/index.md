@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -478,7 +478,7 @@ layout: default
 |**2025-02-21**|**User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation**|Sojeong Yun et.al.|[2502.15229](http://arxiv.org/abs/2502.15229)|null|
 |**2025-02-21**|**Understand User Opinions of Large Language Models via LLM-Powered In-the-Moment User Experience Interviews**|Mengqiao Liu et.al.|[2502.15226](http://arxiv.org/abs/2502.15226)|null|
 |**2025-02-21**|**Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs**|Tingting Chen et.al.|[2502.15224](http://arxiv.org/abs/2502.15224)|null|
-|**2025-02-21**|**FormalSpecCpp: A Dataset of C++ Formal Specifications created using LLMs**|Madhurima Chakraborty et.al.|[2502.15217](http://arxiv.org/abs/2502.15217)|null|
+|**2025-02-21**|**FormalSpecCpp: A Dataset of C++ Formal Specifications created using LLMs**|Madhurima Chakraborty et.al.|[2502.15217](http://arxiv.org/abs/2502.15217)|**[link](https://github.com/MadhuNimmo/FormalSpecCpp)**|
 |**2025-02-21**|**The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning**|Sheila Schoepp et.al.|[2502.15214](http://arxiv.org/abs/2502.15214)|null|
 |**2025-02-21**|**Unveiling Attractor Cycles in Large Language Models: A Dynamical Systems View of Successive Paraphrasing**|Zhilin Wang et.al.|[2502.15208](http://arxiv.org/abs/2502.15208)|null|
 |**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204](http://arxiv.org/abs/2502.15204)|null|
