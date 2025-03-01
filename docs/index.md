@@ -470,12 +470,12 @@ layout: default
 |**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
 |**2025-02-27**|**Finite State Automata Inside Transformers with Chain-of-Thought: A Mechanistic Study on State Tracking**|Yifan Zhang et.al.|[2502.20129](http://arxiv.org/abs/2502.20129)|null|
 |**2025-02-27**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122](http://arxiv.org/abs/2502.20122)|null|
-|**2025-02-27**|**LongRoPE2: Near-Lossless LLM Context Window Scaling**|Ning Shang et.al.|[2502.20082](http://arxiv.org/abs/2502.20082)|null|
+|**2025-02-27**|**LongRoPE2: Near-Lossless LLM Context Window Scaling**|Ning Shang et.al.|[2502.20082](http://arxiv.org/abs/2502.20082)|**[link](https://github.com/microsoft/longrope)**|
 |**2025-02-27**|**Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents**|Haochen Sun et.al.|[2502.20073](http://arxiv.org/abs/2502.20073)|null|
 |**2025-02-27**|**A Generative Model Enhanced Multi-Agent Reinforcement Learning Method for Electric Vehicle Charging Navigation**|Tianyang Qi et.al.|[2502.20068](http://arxiv.org/abs/2502.20068)|null|
 |**2025-02-27**|**Polish-ASTE: Aspect-Sentiment Triplet Extraction Datasets for Polish**|Marta Lango et.al.|[2502.20046](http://arxiv.org/abs/2502.20046)|null|
 |**2025-02-27**|**3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds**|Hengshuo Chu et.al.|[2502.20041](http://arxiv.org/abs/2502.20041)|null|
-|**2025-02-27**|**AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs**|Xuyang Wei et.al.|[2502.20035](http://arxiv.org/abs/2502.20035)|null|
+|**2025-02-27**|**AsymLoRA: Harmonizing Data Conflicts and Commonalities in MLLMs**|Xuyang Wei et.al.|[2502.20035](http://arxiv.org/abs/2502.20035)|**[link](https://github.com/clin0212/hydralora)**|
 |**2025-02-27**|**Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large Language Models**|Huazheng Wang et.al.|[2502.19982](http://arxiv.org/abs/2502.19982)|null|
 |**2025-02-27**|**The Lookahead Limitation: Why Multi-Operand Addition is Hard for LLMs**|Tanja Baeumel et.al.|[2502.19981](http://arxiv.org/abs/2502.19981)|null|
 |**2025-02-27**|**Can Large Language Models Unveil the Mysteries? An Exploration of Their Ability to Unlock Information in Complex Scenarios**|Chao Wang et.al.|[2502.19973](http://arxiv.org/abs/2502.19973)|null|
@@ -485,7 +485,7 @@ layout: default
 |**2025-02-27**|**GeoEdit: Geometric Knowledge Editing for Large Language Models**|Yujie Feng et.al.|[2502.19953](http://arxiv.org/abs/2502.19953)|null|
 |**2025-02-27**|**Algebraic Machine Learning: Learning as computing an algebraic decomposition of a task**|Fernando Martin-Maroto et.al.|[2502.19944](http://arxiv.org/abs/2502.19944)|null|
 |**2025-02-27**|**Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation**|Xiang Geng et.al.|[2502.19941](http://arxiv.org/abs/2502.19941)|null|
-|**2025-02-27**|**Playing Pokémon Red via Deep Reinforcement Learning**|Marco Pleines et.al.|[2502.19920](http://arxiv.org/abs/2502.19920)|null|
+|**2025-02-27**|**Playing Pokémon Red via Deep Reinforcement Learning**|Marco Pleines et.al.|[2502.19920](http://arxiv.org/abs/2502.19920)|**[link](https://github.com/MarcoMeter/neroRL)**|
 |**2025-02-27**|**Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models**|Yuan Sui et.al.|[2502.19918](http://arxiv.org/abs/2502.19918)|null|
 |**2025-02-27**|**Picking the Cream of the Crop: Visual-Centric Data Selection with Collaborative Agents**|Zhenyu Liu et.al.|[2502.19917](http://arxiv.org/abs/2502.19917)|null|
 |**2025-02-27**|**LLM-driven Effective Knowledge Tracing by Integrating Dual-channel Difficulty**|Jiahui Cen et.al.|[2502.19915](http://arxiv.org/abs/2502.19915)|null|
@@ -4279,7 +4279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361](http://arxiv.org/abs/2502.20361)|null|
+|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361](http://arxiv.org/abs/2502.20361)|**[link](https://github.com/sming256/OpenTAD)**|
 |**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
 |**2025-02-27**|**FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**|Sotiris Anagnostidis et.al.|[2502.20126](http://arxiv.org/abs/2502.20126)|null|
 |**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868](http://arxiv.org/abs/2502.19868)|null|
@@ -4297,7 +4297,7 @@ layout: default
 |**2025-02-21**|**RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers**|Min Zhao et.al.|[2502.15894](http://arxiv.org/abs/2502.15894)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672](http://arxiv.org/abs/2502.15672)|**[link](https://github.com/valeoai/VideoActionModel)**|
 |**2025-02-21**|**LongCaptioning: Unlocking the Power of Long Caption Generation in Large Multimodal Models**|Hongchen Wei et.al.|[2502.15393](http://arxiv.org/abs/2502.15393)|null|
-|**2025-02-21**|**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision**|Kibum Kim et.al.|[2502.15370](http://arxiv.org/abs/2502.15370)|null|
+|**2025-02-21**|**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision**|Kibum Kim et.al.|[2502.15370](http://arxiv.org/abs/2502.15370)|**[link](https://github.com/rlqja1107/NL-VSGG)**|
 |**2025-02-21**|**TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba**|Xiuwei Chen et.al.|[2502.15130](http://arxiv.org/abs/2502.15130)|null|
 |**2025-02-20**|**Can Hallucination Correction Improve Video-Language Alignment?**|Lingjun Zhao et.al.|[2502.15079](http://arxiv.org/abs/2502.15079)|null|
 |**2025-02-20**|**Hardware-Friendly Static Quantization Method for Video Diffusion Transformers**|Sanghyun Yi et.al.|[2502.15077](http://arxiv.org/abs/2502.15077)|null|
