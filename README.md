@@ -37,7 +37,7 @@
 |**2025-02-22**|**ThinkBench: Dynamic Out-of-Distribution Evaluation for Robust LLM Reasoning**|Shulin Huang et.al.|[2502.16268](http://arxiv.org/abs/2502.16268)|null|
 |**2025-02-27**|**Dynamic Parallel Tree Search for Efficient LLM Reasoning**|Yifu Ding et.al.|[2502.16235](http://arxiv.org/abs/2502.16235)|null|
 |**2025-02-22**|**Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations**|Chunyang Li et.al.|[2502.16169](http://arxiv.org/abs/2502.16169)|**[link](https://github.com/lcy2723/robust-rule-induction)**|
-|**2025-02-22**|**Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models**|Qianqi Yan et.al.|[2502.16033](http://arxiv.org/abs/2502.16033)|null|
+|**2025-03-04**|**Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models**|Qianqi Yan et.al.|[2502.16033](http://arxiv.org/abs/2502.16033)|null|
 |**2025-02-21**|**MutaGReP: Execution-Free Repository-Grounded Plan Search for Code-Use**|Zaid Khan et.al.|[2502.15872](http://arxiv.org/abs/2502.15872)|null|
 |**2025-02-21**|**Do Multilingual LLMs Think In English?**|Lisa Schut et.al.|[2502.15603](http://arxiv.org/abs/2502.15603)|null|
 |**2025-02-21**|**Evaluating Social Biases in LLM Reasoning**|Xuyang Wu et.al.|[2502.15361](http://arxiv.org/abs/2502.15361)|null|
@@ -45,7 +45,7 @@
 |**2025-02-21**|**Latent Factor Models Meets Instructions:Goal-conditioned Latent Factor Discovery without Task Supervision**|Zhouhang Xie et.al.|[2502.15147](http://arxiv.org/abs/2502.15147)|null|
 |**2025-02-19**|**SIFT: Grounding LLM Reasoning in Contexts via Stickers**|Zihao Zeng et.al.|[2502.14922](http://arxiv.org/abs/2502.14922)|null|
 |**2025-02-18**|**Think Inside the JSON: Reinforcement Strategy for Strict LLM Schema Adherence**|Bhavik Agarwal et.al.|[2502.14905](http://arxiv.org/abs/2502.14905)|null|
-|**2025-02-20**|**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**|Aiswarya Baby et.al.|[2502.14827](http://arxiv.org/abs/2502.14827)|null|
+|**2025-03-04**|**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**|Aiswarya Baby et.al.|[2502.14827](http://arxiv.org/abs/2502.14827)|null|
 |**2025-02-20**|**Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning**|Tian Xie et.al.|[2502.14768](http://arxiv.org/abs/2502.14768)|**[link](https://github.com/Unakar/Logic-RL)**|
 |**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
 |**2025-02-19**|**MCTS-KBQA: Monte Carlo Tree Search for Knowledge Base Question Answering**|Guanming Xiong et.al.|[2502.13428](http://arxiv.org/abs/2502.13428)|null|
@@ -452,14 +452,14 @@
 |**2025-02-28**|**Modeling Human Beliefs about AI Behavior for Scalable Oversight**|Leon Lang et.al.|[2502.21262](http://arxiv.org/abs/2502.21262)|null|
 |**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
 |**2025-02-28**|**TimesBERT: A BERT-Style Foundation Model for Time Series Understanding**|Haoran Zhang et.al.|[2502.21245](http://arxiv.org/abs/2502.21245)|null|
-|**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
+|**2025-03-04**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
 |**2025-02-28**|**Transforming Tuberculosis Care: Optimizing Large Language Models For Enhanced Clinician-Patient Communication**|Daniil Filienko et.al.|[2502.21236](http://arxiv.org/abs/2502.21236)|null|
 |**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
 |**2025-03-03**|**ECLeKTic: a Novel Challenge Set for Evaluation of Cross-Lingual Knowledge Transfer**|Omer Goldman et.al.|[2502.21228](http://arxiv.org/abs/2502.21228)|null|
 |**2025-02-28**|**Dynamic Markov Blanket Detection for Macroscopic Physics Discovery**|Jeff Beck et.al.|[2502.21217](http://arxiv.org/abs/2502.21217)|null|
 |**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
 |**2025-02-28**|**Chronologically Consistent Large Language Models**|Songrun He et.al.|[2502.21206](http://arxiv.org/abs/2502.21206)|null|
-|**2025-02-28**|**SYN-LUNGS: Towards Simulating Lung Nodules with Anatomy-Informed Digital Twins for AI Training**|Fakrul Islam Tushar et.al.|[2502.21187](http://arxiv.org/abs/2502.21187)|null|
+|**2025-03-04**|**SYN-LUNGS: Towards Simulating Lung Nodules with Anatomy-Informed Digital Twins for AI Training**|Fakrul Islam Tushar et.al.|[2502.21187](http://arxiv.org/abs/2502.21187)|null|
 |**2025-02-28**|**$Δ$ -model correction of Foundation Model based on the models own understanding**|Mads-Peter Verner Christiansen et.al.|[2502.21179](http://arxiv.org/abs/2502.21179)|null|
 |**2025-03-03**|**Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models**|Ruta Binkyte et.al.|[2502.21123](http://arxiv.org/abs/2502.21123)|null|
 |**2025-02-28**|**Optimizing Large Language Models for ESG Activity Detection in Financial Texts**|Mattia Birti et.al.|[2502.21112](http://arxiv.org/abs/2502.21112)|null|
@@ -537,7 +537,7 @@
 |**2025-02-27**|**Few-Shot, No Problem: Descriptive Continual Relation Extraction**|Nguyen Xuan Thanh et.al.|[2502.20596](http://arxiv.org/abs/2502.20596)|null|
 |**2025-02-27**|**Multi $^2$ : Multi-Agent Test-Time Scalable Framework for Multi-Document Processing**|Juntai Cao et.al.|[2502.20592](http://arxiv.org/abs/2502.20592)|null|
 |**2025-02-27**|**LLMs Have Rhythm: Fingerprinting Large Language Models Using Inter-Token Times and Network Traffic Analysis**|Saeif Alhazbi et.al.|[2502.20589](http://arxiv.org/abs/2502.20589)|null|
-|**2025-02-27**|**InstaFace: Identity-Preserving Facial Editing with Single Image Inference**|MD Wahiduzzaman Khan et.al.|[2502.20577](http://arxiv.org/abs/2502.20577)|null|
+|**2025-03-04**|**InstaFace: Identity-Preserving Facial Editing with Single Image Inference**|MD Wahiduzzaman Khan et.al.|[2502.20577](http://arxiv.org/abs/2502.20577)|null|
 |**2025-02-27**|**ECCOS: Efficient Capability and Cost Coordinated Scheduling for Multi-LLM Serving**|Kai Mei et.al.|[2502.20576](http://arxiv.org/abs/2502.20576)|null|
 |**2025-02-27**|**Visual Reasoning at Urban Intersections: FineTuning GPT-4o for Traffic Conflict Detection**|Sari Masri et.al.|[2502.20573](http://arxiv.org/abs/2502.20573)|null|
 |**2025-02-27**|**Stochastic Rounding for LLM Training: Theory and Practice**|Kaan Ozkara et.al.|[2502.20566](http://arxiv.org/abs/2502.20566)|null|
@@ -4423,7 +4423,7 @@
 |**2025-02-20**|**Hardware-Friendly Static Quantization Method for Video Diffusion Transformers**|Sanghyun Yi et.al.|[2502.15077](http://arxiv.org/abs/2502.15077)|null|
 |**2025-02-20**|**LAVID: An Agentic LVLM Framework for Diffusion-Generated Video Detection**|Qingyuan Liu et.al.|[2502.14994](http://arxiv.org/abs/2502.14994)|null|
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|
-|**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
+|**2025-03-04**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
 |**2025-02-28**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377](http://arxiv.org/abs/2502.14377)|null|
 |**2025-02-20**|**Designing Parameter and Compute Efficient Diffusion Transformers using Distillation**|Vignesh Sundaresha et.al.|[2502.14226](http://arxiv.org/abs/2502.14226)|null|
 |**2025-02-19**|**FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation**|Yunpeng Zhang et.al.|[2502.13995](http://arxiv.org/abs/2502.13995)|**[link](https://github.com/Fantasy-AMAP/fantasy-id)**|
