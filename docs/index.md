@@ -530,7 +530,7 @@ layout: default
 |**2025-03-04**|**SAGE: Steering and Refining Dialog Generation with State-Action Augmentation**|Yizhe Zhang et.al.|[2503.03040](http://arxiv.org/abs/2503.03040)|null|
 |**2025-03-04**|**SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs**|Samir Abdaljalil et.al.|[2503.03032](http://arxiv.org/abs/2503.03032)|null|
 |**2025-03-04**|**Generative Active Adaptation for Drifting and Imbalanced Network Intrusion Detection**|Ragini Gupta et.al.|[2503.03022](http://arxiv.org/abs/2503.03022)|null|
-|**2025-03-04**|**Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?**|Evan Scope Crafts et.al.|[2503.03007](http://arxiv.org/abs/2503.03007)|null|
+|**2025-03-04**|**Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?**|Evan Scope Crafts et.al.|[2503.03007](http://arxiv.org/abs/2503.03007)|**[link](https://github.com/Evan1578/BIPSDA)**|
 |**2025-03-04**|**Teaching AI to Handle Exceptions: Supervised Fine-Tuning with Human-Aligned Judgment**|Matthew DosSantos DiSorbo et.al.|[2503.02976](http://arxiv.org/abs/2503.02976)|null|
 |**2025-03-04**|**LINGOLY-TOO: Disentangling Memorisation from Reasoning with Linguistic Templatisation and Orthographic Obfuscation**|Jude Khouja et.al.|[2503.02972](http://arxiv.org/abs/2503.02972)|null|
 |**2025-03-04**|**Multilingual Relative Clause Attachment Ambiguity Resolution in Large Language Models**|So Young Lee et.al.|[2503.02971](http://arxiv.org/abs/2503.02971)|null|
