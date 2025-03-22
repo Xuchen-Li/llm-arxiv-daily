@@ -5792,7 +5792,7 @@
 |**2025-03-12**|**Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework**|Jing Wang et.al.|[2503.10704](http://arxiv.org/abs/2503.10704)|null|
 |**2025-03-12**|**Neighboring Autoregressive Modeling for Efficient Visual Generation**|Yefei He et.al.|[2503.10696](http://arxiv.org/abs/2503.10696)|**[link](https://github.com/thisisbillhe/nar)**|
 |**2025-03-12**|**Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation**|Qiji Zhou et.al.|[2503.10691](http://arxiv.org/abs/2503.10691)|null|
-|**2025-03-11**|**VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion**|Lehan Yang et.al.|[2503.10678](http://arxiv.org/abs/2503.10678)|null|
+|**2025-03-11**|**VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion**|Lehan Yang et.al.|[2503.10678](http://arxiv.org/abs/2503.10678)|**[link](https://github.com/hansxsourse/vrmdiff)**|
 |**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
 |**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
 |**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|null|
