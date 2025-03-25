@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -401,7 +401,7 @@ layout: default
 |**2025-02-05**|**Aero-LLM: A Distributed Framework for Secure UAV Communication and Intelligent Decision-Making**|Balakrishnan Dharmalingam et.al.|[2502.05220](http://arxiv.org/abs/2502.05220)|null|
 |**2025-02-06**|**TruthFlow: Truthful LLM Generation via Representation Flow Correction**|Hanyu Wang et.al.|[2502.04556](http://arxiv.org/abs/2502.04556)|null|
 |**2025-02-05**|**How do Humans and Language Models Reason About Creativity? A Comparative Analysis**|Antonio Laverghetta Jr. et.al.|[2502.03253](http://arxiv.org/abs/2502.03253)|null|
-|**2025-02-05**|**On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation**|Nghiem T. Diep et.al.|[2502.03029](http://arxiv.org/abs/2502.03029)|null|
+|**2025-03-22**|**On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation**|Nghiem T. Diep et.al.|[2502.03029](http://arxiv.org/abs/2502.03029)|null|
 |**2025-02-02**|**LLM-Powered Benchmark Factory: Reliable, Generic, and Efficient**|Peiwen Yuan et.al.|[2502.01683](http://arxiv.org/abs/2502.01683)|**[link](https://github.com/ypw0102/benchmaker)**|
 |**2025-02-02**|**HASSLE-free: A unified Framework for Sparse plus Low-Rank Matrix Decomposition for LLMs**|Mehdi Makni et.al.|[2502.00899](http://arxiv.org/abs/2502.00899)|null|
 |**2025-02-01**|**DUET: Optimizing Training Data Mixtures via Feedback from Unseen Evaluation Tasks**|Zhiliang Chen et.al.|[2502.00270](http://arxiv.org/abs/2502.00270)|null|
@@ -604,7 +604,7 @@ layout: default
 |**2025-03-20**|**Leveraging Large Language Models for Explainable Activity Recognition in Smart Homes: A Critical Evaluation**|Michele Fiori et.al.|[2503.16622](http://arxiv.org/abs/2503.16622)|null|
 |**2025-03-20**|**A Recipe for Generating 3D Worlds From a Single Image**|Katja Schwarz et.al.|[2503.16611](http://arxiv.org/abs/2503.16611)|null|
 |**2025-03-20**|**Distributed LLMs and Multimodal Large Language Models: A Survey on Advances, Challenges, and Future Directions**|Hadi Amini et.al.|[2503.16585](http://arxiv.org/abs/2503.16585)|null|
-|**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
+|**2025-03-22**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
 |**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426](http://arxiv.org/abs/2503.16426)|**[link](https://github.com/KyanChen/DynamicVis)**|
 |**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420](http://arxiv.org/abs/2503.16420)|null|
 |**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|**[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)**|
