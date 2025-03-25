@@ -17,7 +17,7 @@
 |**2025-03-23**|**Mind with Eyes: from Language Reasoning to Multimodal Reasoning**|Zhiyu Lin et.al.|[2503.18071](http://arxiv.org/abs/2503.18071)|null|
 |**2025-03-23**|**MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**|Hsin-Ling Hsu et.al.|[2503.17900](http://arxiv.org/abs/2503.17900)|null|
 |**2025-03-22**|**A Modular Dataset to Demonstrate LLM Abstraction Capability**|Adam Atanas et.al.|[2503.17645](http://arxiv.org/abs/2503.17645)|null|
-|**2025-03-22**|**ConSol: Sequential Probability Ratio Testing to Find Consistent LLM Reasoning Paths Efficiently**|Jaeyeon Lee et.al.|[2503.17587](http://arxiv.org/abs/2503.17587)|null|
+|**2025-03-22**|**ConSol: Sequential Probability Ratio Testing to Find Consistent LLM Reasoning Paths Efficiently**|Jaeyeon Lee et.al.|[2503.17587](http://arxiv.org/abs/2503.17587)|**[link](https://github.com/LiuzLab/consol)**|
 |**2025-03-21**|**LEMMA: Learning from Errors for MatheMatical Advancement in LLMs**|Zhuoshi Pan et.al.|[2503.17439](http://arxiv.org/abs/2503.17439)|null|
 |**2025-03-21**|**V-Seek: Accelerating LLM Reasoning on Open-hardware Server-class RISC-V Platforms**|Javier J. Poveda Rodrigo et.al.|[2503.17422](http://arxiv.org/abs/2503.17422)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
@@ -554,7 +554,7 @@
 |---|---|---|---|---|
 |**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948](http://arxiv.org/abs/2503.18948)|**[link](https://github.com/drx-code/EquivariantModeling)**|
 |**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
-|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|null|
+|**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
 |**2025-03-24**|**SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding**|Mingze Xu et.al.|[2503.18943](http://arxiv.org/abs/2503.18943)|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
 |**2025-03-24**|**Exploring Training and Inference Scaling Laws in Generative Retrieval**|Hongru Cai et.al.|[2503.18941](http://arxiv.org/abs/2503.18941)|null|
