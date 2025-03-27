@@ -644,7 +644,7 @@
 |**2025-03-25**|**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**|Simiao Ren et.al.|[2503.20084](http://arxiv.org/abs/2503.20084)|null|
 |**2025-03-25**|**Cross-Tokenizer Distillation via Approximate Likelihood Matching**|Benjamin Minixhofer et.al.|[2503.20083](http://arxiv.org/abs/2503.20083)|null|
 |**2025-03-25**|**Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays**|Jinsook Lee et.al.|[2503.20062](http://arxiv.org/abs/2503.20062)|null|
-|**2025-03-25**|**Deep Learning Approaches for Blood Disease Diagnosis Across Hematopoietic Lineages**|Gabriel Bo et.al.|[2503.20049](http://arxiv.org/abs/2503.20049)|null|
+|**2025-03-25**|**Deep Learning Approaches for Blood Disease Diagnosis Across Hematopoietic Lineages**|Gabriel Bo et.al.|[2503.20049](http://arxiv.org/abs/2503.20049)|**[link](https://github.com/JustinGu32/gene-ml)**|
 |**2025-03-25**|**Warm Start Adaptive-Bias Quantum Approximate Optimization Algorithm**|Yunlong Yu et.al.|[2503.20048](http://arxiv.org/abs/2503.20048)|null|
 |**2025-03-25**|**Unlocking Multi-Task Electric Energy System Intelligence: Data Scaling Laws and Performance with Limited Fine-Tuning**|Shaohuai Liu et.al.|[2503.20040](http://arxiv.org/abs/2503.20040)|null|
 |**2025-03-25**|**OmniNova:A General Multimodal Agent Framework**|Pengfei Du et.al.|[2503.20028](http://arxiv.org/abs/2503.20028)|null|
