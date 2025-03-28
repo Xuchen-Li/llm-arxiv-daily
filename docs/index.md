@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
+|**2025-03-27**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
 |**2025-03-26**|**Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**|Han Wu et.al.|[2503.20641](http://arxiv.org/abs/2503.20641)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**VisualQuest: A Diverse Image Dataset for Evaluating Visual Recognition in LLMs**|Kelaiti Xiao et.al.|[2503.19936](http://arxiv.org/abs/2503.19936)|null|
@@ -561,8 +561,8 @@ layout: default
 |**2025-03-26**|**Dynamic Motion Blending for Versatile Motion Editing**|Nan Jiang et.al.|[2503.20724](http://arxiv.org/abs/2503.20724)|null|
 |**2025-03-26**|**From Annotation to Adaptation: Metrics, Synthetic Data, and Aspect Extraction for Aspect-Based Sentiment Analysis with Large Language Models**|Nikita Neveditsin et.al.|[2503.20715](http://arxiv.org/abs/2503.20715)|null|
 |**2025-03-26**|**Graph-Enhanced Model-Free Reinforcement Learning Agents for Efficient Power Grid Topological Control**|Eloy Anguiano Batanero et.al.|[2503.20688](http://arxiv.org/abs/2503.20688)|null|
-|**2025-03-26**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685](http://arxiv.org/abs/2503.20685)|null|
-|**2025-03-26**|**Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy**|Yinan Sun et.al.|[2503.20673](http://arxiv.org/abs/2503.20673)|null|
+|**2025-03-27**|**Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound**|Yuhao Huang et.al.|[2503.20685](http://arxiv.org/abs/2503.20685)|null|
+|**2025-03-27**|**Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy**|Yinan Sun et.al.|[2503.20673](http://arxiv.org/abs/2503.20673)|null|
 |**2025-03-26**|**BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation**|Yuyang Peng et.al.|[2503.20672](http://arxiv.org/abs/2503.20672)|null|
 |**2025-03-26**|**TAMA: A Human-AI Collaborative Thematic Analysis Framework Using Multi-Agent LLMs for Clinical Interviews**|Huimin Xu et.al.|[2503.20666](http://arxiv.org/abs/2503.20666)|null|
 |**2025-03-26**|**ARMO: Autoregressive Rigging for Multi-Category Objects**|Mingze Sun et.al.|[2503.20663](http://arxiv.org/abs/2503.20663)|null|
@@ -601,7 +601,7 @@ layout: default
 |**2025-03-26**|**Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models**|Shih-Wen Ke et.al.|[2503.20320](http://arxiv.org/abs/2503.20320)|null|
 |**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|null|
 |**2025-03-26**|**Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs**|Zitian Wang et.al.|[2503.20309](http://arxiv.org/abs/2503.20309)|null|
-|**2025-03-26**|**Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics**|Lee Chae-Yeon et.al.|[2503.20308](http://arxiv.org/abs/2503.20308)|null|
+|**2025-03-27**|**Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics**|Lee Chae-Yeon et.al.|[2503.20308](http://arxiv.org/abs/2503.20308)|null|
 |**2025-03-26**|**A Multilingual, Culture-First Approach to Addressing Misgendering in LLM Applications**|Sunayana Sitaram et.al.|[2503.20302](http://arxiv.org/abs/2503.20302)|null|
 |**2025-03-26**|**Traversing Distortion-Perception Tradeoff using a Single Score-Based Generative Model**|Yuhan Wang et.al.|[2503.20297](http://arxiv.org/abs/2503.20297)|null|
 |**2025-03-26**|**QualiSpeech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions**|Siyin Wang et.al.|[2503.20290](http://arxiv.org/abs/2503.20290)|null|
@@ -632,7 +632,7 @@ layout: default
 |**2025-03-25**|**Bigger But Not Better: Small Neural Language Models Outperform Large Language Models in Detection of Thought Disorder**|Changye Li et.al.|[2503.20103](http://arxiv.org/abs/2503.20103)|null|
 |**2025-03-25**|**Generative Linguistics, Large Language Models, and the Social Nature of Scientific Success**|Sophie Hao et.al.|[2503.20088](http://arxiv.org/abs/2503.20088)|null|
 |**2025-03-25**|**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**|Simiao Ren et.al.|[2503.20084](http://arxiv.org/abs/2503.20084)|null|
-|**2025-03-25**|**Cross-Tokenizer Distillation via Approximate Likelihood Matching**|Benjamin Minixhofer et.al.|[2503.20083](http://arxiv.org/abs/2503.20083)|null|
+|**2025-03-27**|**Cross-Tokenizer Distillation via Approximate Likelihood Matching**|Benjamin Minixhofer et.al.|[2503.20083](http://arxiv.org/abs/2503.20083)|null|
 |**2025-03-25**|**Poor Alignment and Steerability of Large Language Models: Evidence from College Admission Essays**|Jinsook Lee et.al.|[2503.20062](http://arxiv.org/abs/2503.20062)|null|
 |**2025-03-25**|**Deep Learning Approaches for Blood Disease Diagnosis Across Hematopoietic Lineages**|Gabriel Bo et.al.|[2503.20049](http://arxiv.org/abs/2503.20049)|**[link](https://github.com/JustinGu32/gene-ml)**|
 |**2025-03-25**|**Warm Start Adaptive-Bias Quantum Approximate Optimization Algorithm**|Yunlong Yu et.al.|[2503.20048](http://arxiv.org/abs/2503.20048)|null|
