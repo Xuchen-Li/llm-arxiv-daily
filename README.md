@@ -16,7 +16,7 @@
 |**2025-03-27**|**SWI: Speaking with Intent in Large Language Models**|Yuwei Yin et.al.|[2503.21544](http://arxiv.org/abs/2503.21544)|**[link](https://github.com/YuweiYin/SWI)**|
 |**2025-03-27**|**Cultivating Game Sense for Yourself: Making VLMs Gaming Experts**|Wenxuan Lu et.al.|[2503.21263](http://arxiv.org/abs/2503.21263)|null|
 |**2025-03-27**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
-|**2025-03-26**|**Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**|Han Wu et.al.|[2503.20641](http://arxiv.org/abs/2503.20641)|null|
+|**2025-03-26**|**Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging**|Han Wu et.al.|[2503.20641](http://arxiv.org/abs/2503.20641)|**[link](https://github.com/hahahawu/long-to-short-via-model-merging)**|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**VisualQuest: A Diverse Image Dataset for Evaluating Visual Recognition in LLMs**|Kelaiti Xiao et.al.|[2503.19936](http://arxiv.org/abs/2503.19936)|null|
 |**2025-03-25**|**A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**|Jie Tian et.al.|[2503.19889](http://arxiv.org/abs/2503.19889)|null|
@@ -26,11 +26,11 @@
 |**2025-03-23**|**MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**|Hsin-Ling Hsu et.al.|[2503.17900](http://arxiv.org/abs/2503.17900)|null|
 |**2025-03-22**|**A Modular Dataset to Demonstrate LLM Abstraction Capability**|Adam Atanas et.al.|[2503.17645](http://arxiv.org/abs/2503.17645)|null|
 |**2025-03-22**|**ConSol: Sequential Probability Ratio Testing to Find Consistent LLM Reasoning Paths Efficiently**|Jaeyeon Lee et.al.|[2503.17587](http://arxiv.org/abs/2503.17587)|**[link](https://github.com/LiuzLab/consol)**|
-|**2025-03-21**|**LEMMA: Learning from Errors for MatheMatical Advancement in LLMs**|Zhuoshi Pan et.al.|[2503.17439](http://arxiv.org/abs/2503.17439)|null|
+|**2025-03-21**|**LEMMA: Learning from Errors for MatheMatical Advancement in LLMs**|Zhuoshi Pan et.al.|[2503.17439](http://arxiv.org/abs/2503.17439)|**[link](https://github.com/pzs19/LEMMA)**|
 |**2025-03-21**|**V-Seek: Accelerating LLM Reasoning on Open-hardware Server-class RISC-V Platforms**|Javier J. Poveda Rodrigo et.al.|[2503.17422](http://arxiv.org/abs/2503.17422)|null|
 |**2025-03-21**|**Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique**|Yansi Li et.al.|[2503.17363](http://arxiv.org/abs/2503.17363)|null|
-|**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|null|
-|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**|Yihe Deng et.al.|[2503.17352](http://arxiv.org/abs/2503.17352)|**[link](https://github.com/yihedeng9/openvlthinker)**|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|**[link](https://github.com/kchu/llm-map)**|
 |**2025-03-21**|**Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study**|Li Zhang et.al.|[2503.16788](http://arxiv.org/abs/2503.16788)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734](http://arxiv.org/abs/2503.16734)|null|
 |**2025-03-21**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131](http://arxiv.org/abs/2503.16131)|null|
@@ -6225,19 +6225,19 @@
 |**2025-03-27**|**Leveraging LLMs with Iterative Loop Structure for Enhanced Social Intelligence in Video Question Answering**|Erika Mori et.al.|[2503.21190](http://arxiv.org/abs/2503.21190)|null|
 |**2025-03-27**|**ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model**|Jinwei Qi et.al.|[2503.21144](http://arxiv.org/abs/2503.21144)|null|
 |**2025-03-26**|**Synthetic Video Enhances Physical Fidelity in Video Synthesis**|Qi Zhao et.al.|[2503.20822](http://arxiv.org/abs/2503.20822)|null|
-|**2025-03-26**|**BASKET: A Large-Scale Video Dataset for Fine-Grained Skill Estimation**|Yulu Pan et.al.|[2503.20781](http://arxiv.org/abs/2503.20781)|null|
-|**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|null|
+|**2025-03-26**|**BASKET: A Large-Scale Video Dataset for Fine-Grained Skill Estimation**|Yulu Pan et.al.|[2503.20781](http://arxiv.org/abs/2503.20781)|**[link](https://github.com/yulupan00/basket)**|
+|**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|**[link](https://github.com/fmp453/rectable)**|
 |**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
 |**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523](http://arxiv.org/abs/2503.20523)|null|
-|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|null|
+|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|**[link](https://github.com/thu-coai/vpo)**|
 |**2025-03-26**|**From Trial to Triumph: Advancing Long Video Understanding via Visual Context Sample Scaling and Self-reward Alignment**|Yucheng Suo et.al.|[2503.20472](http://arxiv.org/abs/2503.20472)|null|
 |**2025-03-26**|**Self-ReS: Self-Reflection in Large Vision-Language Models for Long Video Understanding**|Joao Pereira et.al.|[2503.20362](http://arxiv.org/abs/2503.20362)|null|
-|**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|null|
+|**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|**[link](https://github.com/wan-video/wan2.1)**|
 |**2025-03-26**|**Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models**|Prin Phunyaphibarn et.al.|[2503.20240](http://arxiv.org/abs/2503.20240)|null|
 |**2025-03-26**|**Video Motion Graphs**|Haiyang Liu et.al.|[2503.20218](http://arxiv.org/abs/2503.20218)|null|
 |**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118](http://arxiv.org/abs/2503.20118)|null|
 |**2025-03-25**|**Self-Supervised Learning of Motion Concepts by Optimizing Counterfactuals**|Stefan Stojanov et.al.|[2503.19953](http://arxiv.org/abs/2503.19953)|null|
-|**2025-03-25**|**ACVUBench: Audio-Centric Video Understanding Benchmark**|Yudong Yang et.al.|[2503.19951](http://arxiv.org/abs/2503.19951)|null|
+|**2025-03-25**|**ACVUBench: Audio-Centric Video Understanding Benchmark**|Yudong Yang et.al.|[2503.19951](http://arxiv.org/abs/2503.19951)|**[link](https://github.com/lark-png/acvubench)**|
 |**2025-03-25**|**FuXi-RTM: A Physics-Guided Prediction Framework with Radiative Transfer Modeling**|Qiusheng Huang et.al.|[2503.19940](http://arxiv.org/abs/2503.19940)|null|
 |**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907](http://arxiv.org/abs/2503.19907)|null|
 |**2025-03-25**|**Mask $^2$ DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**|Tianhao Qi et.al.|[2503.19881](http://arxiv.org/abs/2503.19881)|null|
@@ -6248,7 +6248,7 @@
 |**2025-03-25**|**AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset**|Haiyu Zhang et.al.|[2503.19462](http://arxiv.org/abs/2503.19462)|null|
 |**2025-03-26**|**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing**|Jaihoon Kim et.al.|[2503.19385](http://arxiv.org/abs/2503.19385)|null|
 |**2025-03-25**|**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**|Yukang Lin et.al.|[2503.19383](http://arxiv.org/abs/2503.19383)|null|
-|**2025-03-26**|**EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models**|Yufei Cai et.al.|[2503.19369](http://arxiv.org/abs/2503.19369)|null|
+|**2025-03-26**|**EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models**|Yufei Cai et.al.|[2503.19369](http://arxiv.org/abs/2503.19369)|**[link](https://github.com/prototypenx/efficientmt)**|
 |**2025-03-25**|**Long-Context Autoregressive Video Modeling with Next-Frame Prediction**|Yuchao Gu et.al.|[2503.19325](http://arxiv.org/abs/2503.19325)|null|
 |**2025-03-24**|**Video-ColBERT: Contextualized Late Interaction for Text-to-Video Retrieval**|Arun Reddy et.al.|[2503.19009](http://arxiv.org/abs/2503.19009)|null|
 |**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
@@ -6257,7 +6257,7 @@
 |**2025-03-27**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
 |**2025-03-24**|**CRCL: Causal Representation Consistency Learning for Anomaly Detection in Surveillance Videos**|Yang Liu et.al.|[2503.18808](http://arxiv.org/abs/2503.18808)|null|
 |**2025-03-24**|**Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks**|Nina Shvetsova et.al.|[2503.18637](http://arxiv.org/abs/2503.18637)|null|
-|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
+|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|**[link](https://github.com/amd-aig-aima/amd-hummingbird-t2v)**|
 |**2025-03-24**|**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**|Qiang Qu et.al.|[2503.18552](http://arxiv.org/abs/2503.18552)|null|
 |**2025-03-24**|**Can Text-to-Video Generation help Video-Language Alignment?**|Luca Zanella et.al.|[2503.18507](http://arxiv.org/abs/2503.18507)|null|
 |**2025-03-24**|**Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding**|Xiangrui Liu et.al.|[2503.18478](http://arxiv.org/abs/2503.18478)|null|
@@ -6265,15 +6265,15 @@
 |**2025-03-24**|**Breaking the Encoder Barrier for Seamless Video-Language Understanding**|Handong Li et.al.|[2503.18422](http://arxiv.org/abs/2503.18422)|null|
 |**2025-03-25**|**VTD-CLIP: Video-to-Text Discretization via Prompting CLIP**|Wencheng Zhu et.al.|[2503.18407](http://arxiv.org/abs/2503.18407)|null|
 |**2025-03-24**|**Resource-Efficient Motion Control for Video Generation via Dynamic Mask Guidance**|Sicong Feng et.al.|[2503.18386](http://arxiv.org/abs/2503.18386)|null|
-|**2025-03-23**|**MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps**|Valentin Gabeff et.al.|[2503.18223](http://arxiv.org/abs/2503.18223)|null|
+|**2025-03-23**|**MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps**|Valentin Gabeff et.al.|[2503.18223](http://arxiv.org/abs/2503.18223)|**[link](https://github.com/eceo-epfl/mammalps)**|
 |**2025-03-23**|**LongDiff: Training-Free Long Video Generation in One Go**|Zhuoling Li et.al.|[2503.18150](http://arxiv.org/abs/2503.18150)|null|
 |**2025-03-23**|**TransAnimate: Taming Layer Diffusion to Generate RGBA Video**|Xuewei Chen et.al.|[2503.17934](http://arxiv.org/abs/2503.17934)|null|
 |**2025-03-22**|**4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding**|Wenxuan Zhu et.al.|[2503.17827](http://arxiv.org/abs/2503.17827)|null|
-|**2025-03-22**|**V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction**|Yiming Zhao et.al.|[2503.17736](http://arxiv.org/abs/2503.17736)|null|
+|**2025-03-22**|**V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction**|Yiming Zhao et.al.|[2503.17736](http://arxiv.org/abs/2503.17736)|**[link](https://github.com/gaotiexinqu/v2p-bench)**|
 |**2025-03-22**|**RDTF: Resource-efficient Dual-mask Training Framework for Multi-frame Animated Sticker Generation**|Zhiqiang Yuan et.al.|[2503.17735](http://arxiv.org/abs/2503.17735)|null|
 |**2025-03-22**|**Collaborative Temporal Consistency Learning for Point-supervised Natural Language Video Localization**|Zhuo Tao et.al.|[2503.17651](http://arxiv.org/abs/2503.17651)|null|
 |**2025-03-21**|**Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks**|Bhishma Dedhia et.al.|[2503.17539](http://arxiv.org/abs/2503.17539)|null|
-|**2025-03-21**|**Enhancing Subsequent Video Retrieval via Vision-Language Models (VLMs)**|Yicheng Duan et.al.|[2503.17415](http://arxiv.org/abs/2503.17415)|null|
+|**2025-03-21**|**Enhancing Subsequent Video Retrieval via Vision-Language Models (VLMs)**|Yicheng Duan et.al.|[2503.17415](http://arxiv.org/abs/2503.17415)|**[link](https://github.com/YichengDuan/svrllm)**|
 |**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359](http://arxiv.org/abs/2503.17359)|null|
 |**2025-03-21**|**PVChat: Personalized Video Chat with One-Shot Learning**|Yufei Shi et.al.|[2503.17069](http://arxiv.org/abs/2503.17069)|null|
 |**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
@@ -6288,7 +6288,7 @@
 |**2025-03-20**|**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**|Zhihang Liu et.al.|[2503.16036](http://arxiv.org/abs/2503.16036)|null|
 |**2025-03-20**|**Agentic Keyframe Search for Video Question Answering**|Sunqi Fan et.al.|[2503.16032](http://arxiv.org/abs/2503.16032)|**[link](https://github.com/fansunqi/akeys)**|
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
-|**2025-03-25**|**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**|Zichen Liu et.al.|[2503.15973](http://arxiv.org/abs/2503.15973)|null|
+|**2025-03-25**|**STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding**|Zichen Liu et.al.|[2503.15973](http://arxiv.org/abs/2503.15973)|**[link](https://github.com/zhoujiahuan1991/cvpr2025-stop)**|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[2503.15875](http://arxiv.org/abs/2503.15875)|**[link](https://github.com/xiaomi-mlab/mila.github.io)**|
 |**2025-03-20**|**MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations**|Kyungho Bae et.al.|[2503.15871](http://arxiv.org/abs/2503.15871)|null|
