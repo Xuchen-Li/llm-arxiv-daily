@@ -1,4 +1,4 @@
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -349,7 +349,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## LLM Evaluation
 
@@ -560,7 +560,7 @@
 |**2024-10-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|**[link](https://github.com/ulrs0/MA-PO)**|
 |**2024-10-19**|**Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks**|Junseok Kim et.al.|[2408.08631](http://arxiv.org/abs/2408.08631)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -583,7 +583,7 @@
 |**2025-03-27**|**LLM-Gomoku: A Large Language Model-Based System for Strategic Gomoku with Self-Play and Reinforcement Learning**|Hui Wang et.al.|[2503.21683](http://arxiv.org/abs/2503.21683)|null|
 |**2025-03-27**|**JiraiBench: A Bilingual Benchmark for Evaluating Large Language Models' Detection of Human Self-Destructive Behavior Content in Jirai Community**|Yunze Xiao et.al.|[2503.21679](http://arxiv.org/abs/2503.21679)|null|
 |**2025-03-27**|**How do language models learn facts? Dynamics, curricula and hallucinations**|Nicolas Zucchet et.al.|[2503.21676](http://arxiv.org/abs/2503.21676)|null|
-|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|null|
+|**2025-03-27**|**Intelligent IoT Attack Detection Design via ODLLM with Feature Ranking-based Knowledge Base**|Satvik Verma et.al.|[2503.21674](http://arxiv.org/abs/2503.21674)|**[link](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)**|
 |**2025-03-27**|**A friendly introduction to triangular transport**|Maximilian Ramgraber et.al.|[2503.21673](http://arxiv.org/abs/2503.21673)|null|
 |**2025-03-27**|**UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning**|Zhengxi Lu et.al.|[2503.21620](http://arxiv.org/abs/2503.21620)|null|
 |**2025-03-27**|**Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach**|Javier Coronado-Blázquez et.al.|[2503.21613](http://arxiv.org/abs/2503.21613)|null|
@@ -596,7 +596,7 @@
 |**2025-03-27**|**Combining Artificial Users and Psychotherapist Assessment to Evaluate Large Language Model-based Mental Health Chatbots**|Florian Onur Kuhlmeier et.al.|[2503.21540](http://arxiv.org/abs/2503.21540)|null|
 |**2025-03-27**|**Exploring the Energy Landscape of RBMs: Reciprocal Space Insights into Bosons, Hierarchical Learning and Symmetry Breaking**|J. Quetzalcóatl Toledo-Marin et.al.|[2503.21536](http://arxiv.org/abs/2503.21536)|null|
 |**2025-03-27**|**Uncertainty-aware Bayesian machine learning modelling of land cover classification**|Samuel Bilson et.al.|[2503.21510](http://arxiv.org/abs/2503.21510)|null|
-|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/abs/2503.21504)|null|
+|**2025-03-27**|**Keyword-Oriented Multimodal Modeling for Euphemism Identification**|Yuxue Hu et.al.|[2503.21504](http://arxiv.org/abs/2503.21504)|**[link](https://github.com/DHZ68/KOM-EI)**|
 |**2025-03-27**|**Double Blind Imaging with Generative Modeling**|Brett Levac et.al.|[2503.21501](http://arxiv.org/abs/2503.21501)|null|
 |**2025-03-27**|**OpenHuEval: Evaluating Large Language Model on Hungarian Specifics**|Haote Yang et.al.|[2503.21500](http://arxiv.org/abs/2503.21500)|**[link](https://github.com/opendatalab/openhueval)**|
 |**2025-03-27**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480](http://arxiv.org/abs/2503.21480)|null|
@@ -634,7 +634,7 @@
 |**2025-03-27**|**GenFusion: Closing the Loop between Reconstruction and Generation via Videos**|Sibo Wu et.al.|[2503.21219](http://arxiv.org/abs/2503.21219)|null|
 |**2025-03-27**|**Resource-Efficient Federated Fine-Tuning Large Language Models for Heterogeneous Data**|Jun Liu et.al.|[2503.21213](http://arxiv.org/abs/2503.21213)|null|
 |**2025-03-27**|**FakeReasoning: Towards Generalizable Forgery Detection and Reasoning**|Yueying Gao et.al.|[2503.21210](http://arxiv.org/abs/2503.21210)|null|
-|**2025-03-27**|**PilotANN: Memory-Bounded GPU Acceleration for Vector Search**|Yuntao Gui et.al.|[2503.21206](http://arxiv.org/abs/2503.21206)|null|
+|**2025-03-27**|**PilotANN: Memory-Bounded GPU Acceleration for Vector Search**|Yuntao Gui et.al.|[2503.21206](http://arxiv.org/abs/2503.21206)|**[link](https://github.com/ytgui/pilotann)**|
 |**2025-03-27**|**Leveraging LLMs with Iterative Loop Structure for Enhanced Social Intelligence in Video Question Answering**|Erika Mori et.al.|[2503.21190](http://arxiv.org/abs/2503.21190)|null|
 |**2025-03-27**|**DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration**|Yimin Xu et.al.|[2503.21187](http://arxiv.org/abs/2503.21187)|**[link](https://github.com/cheneyxuyimin/sam2dino-seg)**|
 |**2025-03-27**|**Integrating Large Language Models For Monte Carlo Simulation of Chemical Reaction Networks**|Sadikshya Gyawali et.al.|[2503.21178](http://arxiv.org/abs/2503.21178)|null|
@@ -6210,7 +6210,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -6242,9 +6242,9 @@
 |**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907](http://arxiv.org/abs/2503.19907)|null|
 |**2025-03-25**|**Mask $^2$ DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**|Tianhao Qi et.al.|[2503.19881](http://arxiv.org/abs/2503.19881)|null|
 |**2025-03-25**|**AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**|Jiazhi Guan et.al.|[2503.19824](http://arxiv.org/abs/2503.19824)|null|
-|**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794](http://arxiv.org/abs/2503.19794)|null|
-|**2025-03-25**|**Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations**|Jungin Park et.al.|[2503.19706](http://arxiv.org/abs/2503.19706)|null|
-|**2025-03-25**|**Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**|Hongcheng Gao et.al.|[2503.19622](http://arxiv.org/abs/2503.19622)|null|
+|**2025-03-25**|**PAVE: Patching and Adapting Video Large Language Models**|Zhuoming Liu et.al.|[2503.19794](http://arxiv.org/abs/2503.19794)|**[link](https://github.com/dragonlzm/pave)**|
+|**2025-03-25**|**Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations**|Jungin Park et.al.|[2503.19706](http://arxiv.org/abs/2503.19706)|**[link](https://github.com/park-jungin/byov)**|
+|**2025-03-25**|**Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**|Hongcheng Gao et.al.|[2503.19622](http://arxiv.org/abs/2503.19622)|**[link](https://github.com/hongcheng-gao/haven)**|
 |**2025-03-25**|**AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset**|Haiyu Zhang et.al.|[2503.19462](http://arxiv.org/abs/2503.19462)|null|
 |**2025-03-26**|**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing**|Jaihoon Kim et.al.|[2503.19385](http://arxiv.org/abs/2503.19385)|null|
 |**2025-03-25**|**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**|Yukang Lin et.al.|[2503.19383](http://arxiv.org/abs/2503.19383)|null|
@@ -6807,5 +6807,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250329>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
 
