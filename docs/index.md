@@ -44,7 +44,7 @@ layout: default
 |**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
 |**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
 |**2025-03-17**|**R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**|Jingyi Zhang et.al.|[2503.12937](http://arxiv.org/abs/2503.12937)|**[link](https://github.com/jingyi0000/R1-VL)**|
-|**2025-03-28**|**Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation**|Songjun Tu et.al.|[2503.12854](http://arxiv.org/abs/2503.12854)|null|
+|**2025-03-28**|**Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation**|Songjun Tu et.al.|[2503.12854](http://arxiv.org/abs/2503.12854)|**[link](https://github.com/TU2021/DPO-VP)**|
 |**2025-03-18**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|**[link](https://github.com/thunlp/deepperception)**|
 |**2025-03-16**|**MPBench: A Comprehensive Multimodal Reasoning Benchmark for Process Errors Identification**|Zhaopan Xu et.al.|[2503.12505](http://arxiv.org/abs/2503.12505)|null|
 |**2025-03-21**|**Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs**|Xiaoying Zhang et.al.|[2503.12303](http://arxiv.org/abs/2503.12303)|**[link](https://github.com/thunlp/SICOG)**|
@@ -351,7 +351,7 @@ layout: default
 |**2025-03-27**|**CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?**|Jiefu Ou et.al.|[2503.21717](http://arxiv.org/abs/2503.21717)|null|
 |**2025-03-27**|**Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach**|Javier Coronado-Blázquez et.al.|[2503.21613](http://arxiv.org/abs/2503.21613)|null|
 |**2025-03-27**|**Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models**|Haoxiang Sun et.al.|[2503.21380](http://arxiv.org/abs/2503.21380)|**[link](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)**|
-|**2025-03-25**|**FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models**|Dahyun Jung et.al.|[2503.19540](http://arxiv.org/abs/2503.19540)|null|
+|**2025-03-25**|**FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models**|Dahyun Jung et.al.|[2503.19540](http://arxiv.org/abs/2503.19540)|**[link](https://github.com/ekgus9/FLEX)**|
 |**2025-03-24**|**LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages**|Patrick Diehl et.al.|[2503.19217](http://arxiv.org/abs/2503.19217)|null|
 |**2025-03-28**|**Overtrained Language Models Are Harder to Fine-Tune**|Jacob Mitchell Springer et.al.|[2503.19206](http://arxiv.org/abs/2503.19206)|null|
 |**2025-03-25**|**Decorum: A Language-Based Approach For Style-Conditioned Synthesis of Indoor 3D Scenes**|Kelly O. Marshall et.al.|[2503.18155](http://arxiv.org/abs/2503.18155)|null|
@@ -583,12 +583,12 @@ layout: default
 |**2025-03-28**|**Generative Reliability-Based Design Optimization Using In-Context Learning Capabilities of Large Language Models**|Zhonglin Jiang et.al.|[2503.22401](http://arxiv.org/abs/2503.22401)|null|
 |**2025-03-28**|**GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain**|Vida Adeli et.al.|[2503.22397](http://arxiv.org/abs/2503.22397)|null|
 |**2025-03-28**|**Negation: A Pink Elephant in the Large Language Models' Room?**|Tereza Vrabcová et.al.|[2503.22395](http://arxiv.org/abs/2503.22395)|null|
-|**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362](http://arxiv.org/abs/2503.22362)|null|
+|**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362](http://arxiv.org/abs/2503.22362)|**[link](https://github.com/KRR-Oxford/FactProbe)**|
 |**2025-03-28**|**EchoFlow: A Foundation Model for Cardiac Ultrasound Image and Video Generation**|Hadrien Reynaud et.al.|[2503.22357](http://arxiv.org/abs/2503.22357)|null|
 |**2025-03-28**|**Firm or Fickle? Evaluating Large Language Models Consistency in Sequential Interactions**|Yubo Li et.al.|[2503.22353](http://arxiv.org/abs/2503.22353)|null|
 |**2025-03-28**|**Meta-LoRA: Meta-Learning LoRA Components for Domain-Aware ID Personalization**|Barış Batuhan Topal et.al.|[2503.22352](http://arxiv.org/abs/2503.22352)|null|
 |**2025-03-28**|**Using a Large Language Model as Design Material for an Interactive Museum Installation**|Maria Padilla Engstrøm et.al.|[2503.22345](http://arxiv.org/abs/2503.22345)|null|
-|**2025-03-28**|**SKDU at De-Factify 4.0: Natural Language Features for AI-Generated Text-Detection**|Shrikant Malviya et.al.|[2503.22338](http://arxiv.org/abs/2503.22338)|null|
+|**2025-03-28**|**SKDU at De-Factify 4.0: Natural Language Features for AI-Generated Text-Detection**|Shrikant Malviya et.al.|[2503.22338](http://arxiv.org/abs/2503.22338)|**[link](https://github.com/skmalviya/ai-gen_text_defactify)**|
 |**2025-03-28**|**A Refined Analysis of Massive Activations in LLMs**|Louis Owen et.al.|[2503.22329](http://arxiv.org/abs/2503.22329)|**[link](https://github.com/bluorion-com/refine_massive_activations)**|
 |**2025-03-28**|**Large Language Models Are Democracy Coders with Attitudes**|Nils B. Weidmann et.al.|[2503.22315](http://arxiv.org/abs/2503.22315)|null|
 |**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283](http://arxiv.org/abs/2503.22283)|null|
