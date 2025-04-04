@@ -19,7 +19,7 @@ layout: default
 |**2025-04-03**|**GTR: Graph-Table-RAG for Cross-Table Question Answering**|Jiaru Zou et.al.|[2504.01346](http://arxiv.org/abs/2504.01346)|null|
 |**2025-04-01**|**When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning**|Nishad Singhi et.al.|[2504.01005](http://arxiv.org/abs/2504.01005)|null|
 |**2025-04-01**|**How Difficulty-Aware Staged Reinforcement Learning Enhances LLMs' Reasoning Capabilities: A Preliminary Experimental Study**|Yunjie Ji et.al.|[2504.00829](http://arxiv.org/abs/2504.00829)|null|
-|**2025-04-02**|**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**|Jie Ma et.al.|[2504.00487](http://arxiv.org/abs/2504.00487)|null|
+|**2025-04-02**|**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**|Jie Ma et.al.|[2504.00487](http://arxiv.org/abs/2504.00487)|**[link](https://github.com/reml-group/fortisavqa)**|
 |**2025-04-01**|**Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework**|Sakhinana Sagar Srinivas et.al.|[2504.00338](http://arxiv.org/abs/2504.00338)|null|
 |**2025-03-31**|**Do Large Language Models Exhibit Spontaneous Rational Deception?**|Samuel M. Taylor et.al.|[2504.00285](http://arxiv.org/abs/2504.00285)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
@@ -665,7 +665,7 @@ layout: default
 |**2025-04-02**|**ContrastScore: Towards Higher Quality, Less Biased, More Efficient Evaluation Metrics with Contrastive Evaluation**|Xiao Wang et.al.|[2504.02106](http://arxiv.org/abs/2504.02106)|null|
 |**2025-04-02**|**FlowDistill: Scalable Traffic Flow Prediction via Distillation from LLMs**|Chenyang Yu et.al.|[2504.02094](http://arxiv.org/abs/2504.02094)|null|
 |**2025-04-02**|**Increasing happiness through conversations with artificial intelligence**|Joseph Heffner et.al.|[2504.02091](http://arxiv.org/abs/2504.02091)|null|
-|**2025-04-02**|**Evolving Security in LLMs: A Study of Jailbreak Attacks and Defenses**|Zhengchun Shang et.al.|[2504.02080](http://arxiv.org/abs/2504.02080)|**[link](https://github.com/weiwenlan/Adversarial-Attacks-on-LLM)**|
+|**2025-04-02**|**Evolving Security in LLMs: A Study of Jailbreak Attacks and Defenses**|Zhengchun Shang et.al.|[2504.02080](http://arxiv.org/abs/2504.02080)|null|
 |**2025-04-02**|**Trapped by Expectations: Functional Fixedness in LLM-Enabled Chat Search**|Jiqun Liu et.al.|[2504.02074](http://arxiv.org/abs/2504.02074)|null|
 |**2025-04-02**|**From Text to Graph: Leveraging Graph Neural Networks for Enhanced Explainability in NLP**|Fabio Yáñez-Romero et.al.|[2504.02064](http://arxiv.org/abs/2504.02064)|null|
 |**2025-04-02**|**Aligned Better, Listen Better for Audio-Visual Large Language Models**|Yuxin Guo et.al.|[2504.02061](http://arxiv.org/abs/2504.02061)|null|
@@ -679,7 +679,7 @@ layout: default
 |**2025-04-02**|**The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**|Massimiliano Luca et.al.|[2504.01951](http://arxiv.org/abs/2504.01951)|null|
 |**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
 |**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938](http://arxiv.org/abs/2504.01938)|null|
-|**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935](http://arxiv.org/abs/2504.01935)|null|
+|**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935](http://arxiv.org/abs/2504.01935)|**[link](https://github.com/celine-lee/critical_thinking)**|
 |**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
 |**2025-04-02**|**Gen-C: Populating Virtual Worlds with Generative Crowds**|Andreas Panayiotou et.al.|[2504.01924](http://arxiv.org/abs/2504.01924)|null|
 |**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
@@ -6642,7 +6642,7 @@ layout: default
 |**2025-04-01**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
 |**2025-03-31**|**HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation**|Kun Liu et.al.|[2503.23715](http://arxiv.org/abs/2503.23715)|null|
 |**2025-03-31**|**The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning**|Mingkai Tian et.al.|[2503.23679](http://arxiv.org/abs/2503.23679)|null|
-|**2025-03-30**|**VideoGen-Eval: Agent-based System for Video Generation Evaluation**|Yuhang Yang et.al.|[2503.23452](http://arxiv.org/abs/2503.23452)|null|
+|**2025-03-30**|**VideoGen-Eval: Agent-based System for Video Generation Evaluation**|Yuhang Yang et.al.|[2503.23452](http://arxiv.org/abs/2503.23452)|**[link](https://github.com/ailab-cvc/videogen-eval)**|
 |**2025-03-30**|**CA^2ST: Cross-Attention in Audio, Space, and Time for Holistic Video Recognition**|Jongseo Lee et.al.|[2503.23447](http://arxiv.org/abs/2503.23447)|null|
 |**2025-03-30**|**JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization**|Kai Liu et.al.|[2503.23377](http://arxiv.org/abs/2503.23377)|null|
 |**2025-04-02**|**Towards Physically Plausible Video Generation via VLM Planning**|Xindi Yang et.al.|[2503.23368](http://arxiv.org/abs/2503.23368)|null|
@@ -6653,7 +6653,7 @@ layout: default
 |**2025-03-28**|**EchoFlow: A Foundation Model for Cardiac Ultrasound Image and Video Generation**|Hadrien Reynaud et.al.|[2503.22357](http://arxiv.org/abs/2503.22357)|null|
 |**2025-03-28**|**CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**|Yishen Ji et.al.|[2503.22231](http://arxiv.org/abs/2503.22231)|null|
 |**2025-03-28**|**EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos**|Yuxuan Li et.al.|[2503.22152](http://arxiv.org/abs/2503.22152)|**[link](https://github.com/facebookresearch/egotom)**|
-|**2025-03-26**|**Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**|Haitong Liu et.al.|[2503.21824](http://arxiv.org/abs/2503.21824)|null|
+|**2025-03-26**|**Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**|Haitong Liu et.al.|[2503.21824](http://arxiv.org/abs/2503.21824)|**[link](https://github.com/ttthhl/protecting_your_video_content)**|
 |**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|**[link](https://github.com/amshaker/mobile-videogpt)**|
 |**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781](http://arxiv.org/abs/2503.21781)|null|
 |**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765](http://arxiv.org/abs/2503.21765)|**[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)**|
