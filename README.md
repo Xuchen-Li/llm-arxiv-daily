@@ -699,7 +699,7 @@
 |**2025-04-06**|**The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models?**|Weichen Zhang et.al.|[2504.04540](http://arxiv.org/abs/2504.04540)|null|
 |**2025-04-06**|**An Empirical Comparison of Text Summarization: A Multi-Dimensional Evaluation of Large Language Models**|Anantharaman Janakiraman et.al.|[2504.04534](http://arxiv.org/abs/2504.04534)|null|
 |**2025-04-06**|**Trust Region Preference Approximation: A simple and stable reinforcement learning algorithm for LLM reasoning**|Xuerui Su et.al.|[2504.04524](http://arxiv.org/abs/2504.04524)|null|
-|**2025-04-06**|**Hessian of Perplexity for Large Language Models by PyTorch autograd (Open Source)**|Ivan Ilin et.al.|[2504.04520](http://arxiv.org/abs/2504.04520)|null|
+|**2025-04-06**|**Hessian of Perplexity for Large Language Models by PyTorch autograd (Open Source)**|Ivan Ilin et.al.|[2504.04520](http://arxiv.org/abs/2504.04520)|**[link](https://github.com/vectozavr/llm-hessian)**|
 |**2025-04-06**|**Enhance Then Search: An Augmentation-Search Strategy with Foundation Models for Cross-Domain Few-Shot Object Detection**|Jiancheng Pan et.al.|[2504.04517](http://arxiv.org/abs/2504.04517)|**[link](https://github.com/jaychempan/ETS)**|
 |**2025-04-06**|**Saliency-driven Dynamic Token Pruning for Large Language Models**|Yao Tao et.al.|[2504.04514](http://arxiv.org/abs/2504.04514)|null|
 |**2025-04-06**|**Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification**|Shijian Wang et.al.|[2504.04510](http://arxiv.org/abs/2504.04510)|null|
