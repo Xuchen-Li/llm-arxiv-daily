@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -682,7 +682,7 @@ layout: default
 |**2025-04-03**|**Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving**|Daoguang Zan et.al.|[2504.02605](http://arxiv.org/abs/2504.02605)|null|
 |**2025-04-04**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587](http://arxiv.org/abs/2504.02587)|null|
 |**2025-04-03**|**Language Models reach higher Agreement than Humans in Historical Interpretation**|Fabio Celli et.al.|[2504.02572](http://arxiv.org/abs/2504.02572)|null|
-|**2025-04-03**|**Leveraging LLM For Synchronizing Information Across Multilingual Tables**|Siddharth Khincha et.al.|[2504.02559](http://arxiv.org/abs/2504.02559)|null|
+|**2025-04-04**|**Leveraging LLM For Synchronizing Information Across Multilingual Tables**|Siddharth Khincha et.al.|[2504.02559](http://arxiv.org/abs/2504.02559)|null|
 |**2025-04-03**|**Exploring Individual Factors in the Adoption of LLMs for Specific Software Engineering Tasks**|Stefano Lambiase et.al.|[2504.02553](http://arxiv.org/abs/2504.02553)|null|
 |**2025-04-03**|**GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**|Xiangxiang Chu et.al.|[2504.02546](http://arxiv.org/abs/2504.02546)|null|
 |**2025-04-03**|**UNDO: Understanding Distillation as Optimization**|Kushal Jain et.al.|[2504.02521](http://arxiv.org/abs/2504.02521)|null|
@@ -6724,7 +6724,7 @@ layout: default
 |**2025-03-29**|**OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts**|Yuxuan Wang et.al.|[2503.22952](http://arxiv.org/abs/2503.22952)|null|
 |**2025-03-28**|**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622](http://arxiv.org/abs/2503.22622)|null|
 |**2025-03-28**|**EchoFlow: A Foundation Model for Cardiac Ultrasound Image and Video Generation**|Hadrien Reynaud et.al.|[2503.22357](http://arxiv.org/abs/2503.22357)|null|
-|**2025-03-28**|**CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**|Yishen Ji et.al.|[2503.22231](http://arxiv.org/abs/2503.22231)|null|
+|**2025-04-05**|**CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**|Yishen Ji et.al.|[2503.22231](http://arxiv.org/abs/2503.22231)|null|
 |**2025-03-28**|**EgoToM: Benchmarking Theory of Mind Reasoning from Egocentric Videos**|Yuxuan Li et.al.|[2503.22152](http://arxiv.org/abs/2503.22152)|**[link](https://github.com/facebookresearch/egotom)**|
 |**2025-03-26**|**Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations**|Haitong Liu et.al.|[2503.21824](http://arxiv.org/abs/2503.21824)|**[link](https://github.com/ttthhl/protecting_your_video_content)**|
 |**2025-03-27**|**Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model**|Abdelrahman Shaker et.al.|[2503.21782](http://arxiv.org/abs/2503.21782)|**[link](https://github.com/amshaker/mobile-videogpt)**|
