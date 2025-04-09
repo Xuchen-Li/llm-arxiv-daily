@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -439,7 +439,7 @@ layout: default
 |**2025-02-19**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119](http://arxiv.org/abs/2502.13119)|null|
 |**2025-02-18**|**HPSS: Heuristic Prompting Strategy Search for LLM Evaluators**|Bosi Wen et.al.|[2502.13031](http://arxiv.org/abs/2502.13031)|null|
 |**2025-03-19**|**None of the Others: a General Technique to Distinguish Reasoning from Memorization in Multiple-Choice LLM Evaluation Benchmarks**|Eva Sánchez Salido et.al.|[2502.12896](http://arxiv.org/abs/2502.12896)|null|
-|**2025-02-18**|**Safe at the Margins: A General Approach to Safety Alignment in Low-Resource English Languages -- A Singlish Case Study**|Isaac Lim et.al.|[2502.12485](http://arxiv.org/abs/2502.12485)|null|
+|**2025-04-08**|**Safe at the Margins: A General Approach to Safety Alignment in Low-Resource English Languages -- A Singlish Case Study**|Isaac Lim et.al.|[2502.12485](http://arxiv.org/abs/2502.12485)|null|
 |**2025-02-17**|**Deviation Ratings: A General, Clone-Invariant Rating Method**|Luke Marris et.al.|[2502.11645](http://arxiv.org/abs/2502.11645)|null|
 |**2025-02-21**|**TituLLMs: A Family of Bangla LLMs with Comprehensive Benchmarking**|Shahriar Kabir Nahin et.al.|[2502.11187](http://arxiv.org/abs/2502.11187)|null|
 |**2025-02-15**|**Rule-Bottleneck Reinforcement Learning: Joint Explanation and Decision Optimization for Resource Allocation with Language Agents**|Mauricio Tec et.al.|[2502.10732](http://arxiv.org/abs/2502.10732)|null|
@@ -604,7 +604,7 @@ layout: default
 |**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
 |**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
 |**2025-04-07**|**LLM-based Automated Grading with Human-in-the-Loop**|Hang Li et.al.|[2504.05239](http://arxiv.org/abs/2504.05239)|null|
-|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
+|**2025-04-08**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
 |**2025-04-07**|**Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling**|Hengran Zhang et.al.|[2504.05216](http://arxiv.org/abs/2504.05216)|null|
 |**2025-04-07**|**Post-Training Language Models for Continual Relation Extraction**|Sefika Efeoglu et.al.|[2504.05214](http://arxiv.org/abs/2504.05214)|null|
 |**2025-04-07**|**Quantum Program Linting with LLMs: Emerging Results from a Comparative Study**|Seung Yeob Shin et.al.|[2504.05204](http://arxiv.org/abs/2504.05204)|null|
@@ -623,7 +623,7 @@ layout: default
 |**2025-04-07**|**Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion**|Eran Beeri Bamani et.al.|[2504.05084](http://arxiv.org/abs/2504.05084)|null|
 |**2025-04-07**|**The Curse of CoT: On the Limitations of Chain-of-Thought in In-Context Learning**|Tianshi Zheng et.al.|[2504.05081](http://arxiv.org/abs/2504.05081)|null|
 |**2025-04-07**|**On the Performance of an Explainable Language Model on PubMedQA**|Venkat Srinivasan et.al.|[2504.05074](http://arxiv.org/abs/2504.05074)|null|
-|**2025-04-07**|**Not All Data Are Unlearned Equally**|Aravind Krishnan et.al.|[2504.05058](http://arxiv.org/abs/2504.05058)|null|
+|**2025-04-08**|**Not All Data Are Unlearned Equally**|Aravind Krishnan et.al.|[2504.05058](http://arxiv.org/abs/2504.05058)|null|
 |**2025-04-07**|**Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models**|Jiawei Lian et.al.|[2504.05050](http://arxiv.org/abs/2504.05050)|null|
 |**2025-04-07**|**Debate Only When Necessary: Adaptive Multiagent Collaboration for Efficient LLM Reasoning**|Sugyeong Eo et.al.|[2504.05047](http://arxiv.org/abs/2504.05047)|null|
 |**2025-04-07**|**InstructionBench: An Instructional Video Understanding Benchmark**|Haiwan Wei et.al.|[2504.05040](http://arxiv.org/abs/2504.05040)|null|
@@ -665,7 +665,7 @@ layout: default
 |**2025-04-07**|**TathyaNyaya and FactLegalLlama: Advancing Factual Judgment Prediction and Explanation in the Indian Legal Context**|Shubham Kumar Nigam et.al.|[2504.04737](http://arxiv.org/abs/2504.04737)|null|
 |**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736](http://arxiv.org/abs/2504.04736)|null|
 |**2025-04-07**|**Can LLM-Driven Hard Negative Sampling Empower Collaborative Filtering? Findings and Potentials**|Chu Zhao et.al.|[2504.04726](http://arxiv.org/abs/2504.04726)|null|
-|**2025-04-07**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
+|**2025-04-08**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
 |**2025-04-07**|**Are You Getting What You Pay For? Auditing Model Substitution in LLM APIs**|Will Cai et.al.|[2504.04715](http://arxiv.org/abs/2504.04715)|null|
 |**2025-04-07**|**Sequential-NIAH: A Needle-In-A-Haystack Benchmark for Extracting Sequential Needles from Long Contexts**|Yifei Yu et.al.|[2504.04713](http://arxiv.org/abs/2504.04713)|null|
 |**2025-04-07**|**Generalising from Self-Produced Data: Model Training Beyond Human Constraints**|Alfath Daryl Alhajir et.al.|[2504.04711](http://arxiv.org/abs/2504.04711)|null|
@@ -679,7 +679,7 @@ layout: default
 |**2025-04-06**|**Splits! A Flexible Dataset for Evaluating a Model's Demographic Social Inference**|Eylon Caplan et.al.|[2504.04640](http://arxiv.org/abs/2504.04640)|null|
 |**2025-04-06**|**Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead**|Chengjie Lu et.al.|[2504.04630](http://arxiv.org/abs/2504.04630)|null|
 |**2025-04-06**|**SECQUE: A Benchmark for Evaluating Real-World Financial Analysis Capabilities**|Noga Ben Yoash et.al.|[2504.04596](http://arxiv.org/abs/2504.04596)|null|
-|**2025-04-06**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
+|**2025-04-08**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
 |**2025-04-06**|**Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification**|Cristina Cornelio et.al.|[2504.04578](http://arxiv.org/abs/2504.04578)|null|
 |**2025-04-06**|**DexTOG: Learning Task-Oriented Dexterous Grasp with Language**|Jieyi Zhang et.al.|[2504.04573](http://arxiv.org/abs/2504.04573)|null|
 |**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|null|
