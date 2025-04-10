@@ -618,7 +618,7 @@ layout: default
 |**2025-04-09**|**To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning**|Tian Qin et.al.|[2504.07052](http://arxiv.org/abs/2504.07052)|null|
 |**2025-04-09**|**Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety**|Chad Melton et.al.|[2504.07022](http://arxiv.org/abs/2504.07022)|null|
 |**2025-04-09**|**LLM-IFT: LLM-Powered Information Flow Tracking for Secure Hardware**|Nowfel Mashnoor et.al.|[2504.07015](http://arxiv.org/abs/2504.07015)|null|
-|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|null|
+|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
 |**2025-04-09**|**Towards LLMs Robustness to Changes in Prompt Format Styles**|Lilian Ngweta et.al.|[2504.06969](http://arxiv.org/abs/2504.06969)|null|
 |**2025-04-09**|**Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**|Thomas Kerdreux et.al.|[2504.06962](http://arxiv.org/abs/2504.06962)|null|
 |**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
