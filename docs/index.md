@@ -706,7 +706,7 @@ layout: default
 |**2025-04-14**|**LangPert: Detecting and Handling Task-level Perturbations for Robust Object Rearrangement**|Xu Yin et.al.|[2504.09893](http://arxiv.org/abs/2504.09893)|null|
 |**2025-04-14**|**Ember: A Compiler for Efficient Embedding Operations on Decoupled Access-Execute Architectures**|Marco Siracusa et.al.|[2504.09870](http://arxiv.org/abs/2504.09870)|null|
 |**2025-04-14**|**RadarLLM: Empowering Large Language Models to Understand Human Motion from Millimeter-wave Point Cloud Sequence**|Zengyuan Lai et.al.|[2504.09862](http://arxiv.org/abs/2504.09862)|null|
-|**2025-04-14**|**EthosGPT: Mapping Human Value Diversity to Advance Sustainable Development Goals (SDGs)**|Luyao Zhang et.al.|[2504.09861](http://arxiv.org/abs/2504.09861)|null|
+|**2025-04-14**|**EthosGPT: Mapping Human Value Diversity to Advance Sustainable Development Goals (SDGs)**|Luyao Zhang et.al.|[2504.09861](http://arxiv.org/abs/2504.09861)|**[link](https://github.com/sunshineluyao/EthoGPT-DB)**|
 |**2025-04-14**|**SUMART: SUMmARizing Translation from Wordy to Concise Expression**|Naoto Nishida et.al.|[2504.09860](http://arxiv.org/abs/2504.09860)|null|
 |**2025-04-14**|**Working with Large Language Models to Enhance Messaging Effectiveness for Vaccine Confidence**|Lucinda Gullison et.al.|[2504.09857](http://arxiv.org/abs/2504.09857)|null|
 |**2025-04-14**|**PestMA: LLM-based Multi-Agent System for Informed Pest Management**|Hongrui Shi et.al.|[2504.09855](http://arxiv.org/abs/2504.09855)|null|
