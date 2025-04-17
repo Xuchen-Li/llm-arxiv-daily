@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -633,7 +633,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
-|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen et.al.|[2504.11454](http://arxiv.org/abs/2504.11454)|null|
+|**2025-04-16**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen Hsieh et.al.|[2504.11454](http://arxiv.org/abs/2504.11454)|null|
 |**2025-04-15**|**TextArena**|Leon Guertler et.al.|[2504.11442](http://arxiv.org/abs/2504.11442)|null|
 |**2025-04-15**|**Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models**|Maria Teleki et.al.|[2504.11431](http://arxiv.org/abs/2504.11431)|null|
 |**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
@@ -674,12 +674,12 @@ layout: default
 |**2025-04-15**|**Leveraging LLMs and attention-mechanism for automatic annotation of historical maps**|Yunshuang Yuan et.al.|[2504.11050](http://arxiv.org/abs/2504.11050)|null|
 |**2025-04-15**|**LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**|Sukannya Purkayastha et.al.|[2504.11042](http://arxiv.org/abs/2504.11042)|null|
 |**2025-04-15**|**Defending Against Frequency-Based Attacks with Diffusion Models**|Fatemeh Amerehi et.al.|[2504.11034](http://arxiv.org/abs/2504.11034)|null|
-|**2025-04-15**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
+|**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
 |**2025-04-15**|**MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique**|Shuhang Liu et.al.|[2504.11009](http://arxiv.org/abs/2504.11009)|null|
 |**2025-04-15**|**Dynamic Compressing Prompts for Efficient Inference of Large Language Models**|Jinwu Hu et.al.|[2504.11004](http://arxiv.org/abs/2504.11004)|null|
 |**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002](http://arxiv.org/abs/2504.11002)|null|
 |**2025-04-15**|**ReZero: Enhancing LLM search ability by trying one-more-time**|Alan Dao et.al.|[2504.11001](http://arxiv.org/abs/2504.11001)|null|
-|**2025-04-15**|**Exploring the Role of KG-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
+|**2025-04-16**|**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
 |**2025-04-15**|**When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers**|Hongkang Li et.al.|[2504.10957](http://arxiv.org/abs/2504.10957)|null|
 |**2025-04-15**|**Unveiling Challenges for LLMs in Enterprise Data Engineering**|Jan-Micha Bodensohn et.al.|[2504.10950](http://arxiv.org/abs/2504.10950)|null|
 |**2025-04-15**|**Can LLMs Leverage Observational Data? Towards Data-Driven Causal Discovery with LLMs**|Yuni Susanti et.al.|[2504.10936](http://arxiv.org/abs/2504.10936)|null|
@@ -7378,7 +7378,7 @@ layout: default
 |**2025-04-13**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
 |**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
 |**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835](http://arxiv.org/abs/2504.06835)|null|
-|**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
+|**2025-04-16**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
 |**2025-04-08**|**From Broadcast to Minimap: Achieving State-of-the-Art SoccerNet Game State Reconstruction**|Vladimir Golovkin et.al.|[2504.06357](http://arxiv.org/abs/2504.06357)|null|
