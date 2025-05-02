@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -742,7 +742,7 @@ layout: default
 |**2025-04-29**|**Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare**|Lovedeep Gondara et.al.|[2504.21191](http://arxiv.org/abs/2504.21191)|null|
 |**2025-04-29**|**LIFT: LLM-Based Pragma Insertion for HLS via GNN Supervised Fine-Tuning**|Neha Prakriya et.al.|[2504.21187](http://arxiv.org/abs/2504.21187)|null|
 |**2025-04-29**|**GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model**|Haoyan Xu et.al.|[2504.21186](http://arxiv.org/abs/2504.21186)|null|
-|**2025-04-29**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
+|**2025-05-01**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
 |**2025-04-29**|**Efficient LLMs with AMP: Attention Heads and MLP Pruning**|Leandro Giusti Mugnaini et.al.|[2504.21174](http://arxiv.org/abs/2504.21174)|null|
 |**2025-04-29**|**Detecting Manipulated Contents Using Knowledge-Grounded Inference**|Mark Huasong Meng et.al.|[2504.21165](http://arxiv.org/abs/2504.21165)|null|
 |**2025-04-29**|**LLM Enhancer: Merged Approach using Vector Embedding for Reducing Large Language Model Hallucinations with External Knowledge**|Naheed Rayhan et.al.|[2504.21132](http://arxiv.org/abs/2504.21132)|null|
@@ -759,7 +759,7 @@ layout: default
 |**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972](http://arxiv.org/abs/2504.20972)|null|
 |**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964](http://arxiv.org/abs/2504.20964)|null|
 |**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951](http://arxiv.org/abs/2504.20951)|null|
-|**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
+|**2025-04-30**|**Trace-of-Thought Prompting: Investigating Prompt-Based Knowledge Distillation Through Question Decomposition**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
 |**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|**[link](https://github.com/adipiz99/RawNetLite)**|
 |**2025-04-29**|**An Empirical Study on the Capability of LLMs in Decomposing Bug Reports**|Zhiyuan Chen et.al.|[2504.20911](http://arxiv.org/abs/2504.20911)|null|

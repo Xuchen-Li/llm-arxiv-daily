@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -441,7 +441,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## LLM Evaluation
 
@@ -681,7 +681,7 @@
 |**2024-10-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|**[link](https://github.com/ulrs0/MA-PO)**|
 |**2024-10-19**|**Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks**|Junseok Kim et.al.|[2408.08631](http://arxiv.org/abs/2408.08631)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -752,7 +752,7 @@
 |**2025-04-29**|**Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare**|Lovedeep Gondara et.al.|[2504.21191](http://arxiv.org/abs/2504.21191)|null|
 |**2025-04-29**|**LIFT: LLM-Based Pragma Insertion for HLS via GNN Supervised Fine-Tuning**|Neha Prakriya et.al.|[2504.21187](http://arxiv.org/abs/2504.21187)|null|
 |**2025-04-29**|**GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model**|Haoyan Xu et.al.|[2504.21186](http://arxiv.org/abs/2504.21186)|null|
-|**2025-04-29**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
+|**2025-05-01**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
 |**2025-04-29**|**Efficient LLMs with AMP: Attention Heads and MLP Pruning**|Leandro Giusti Mugnaini et.al.|[2504.21174](http://arxiv.org/abs/2504.21174)|null|
 |**2025-04-29**|**Detecting Manipulated Contents Using Knowledge-Grounded Inference**|Mark Huasong Meng et.al.|[2504.21165](http://arxiv.org/abs/2504.21165)|null|
 |**2025-04-29**|**LLM Enhancer: Merged Approach using Vector Embedding for Reducing Large Language Model Hallucinations with External Knowledge**|Naheed Rayhan et.al.|[2504.21132](http://arxiv.org/abs/2504.21132)|null|
@@ -769,7 +769,7 @@
 |**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972](http://arxiv.org/abs/2504.20972)|null|
 |**2025-04-29**|**OSVBench: Benchmarking LLMs on Specification Generation Tasks for Operating System Verification**|Shangyu Li et.al.|[2504.20964](http://arxiv.org/abs/2504.20964)|null|
 |**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951](http://arxiv.org/abs/2504.20951)|null|
-|**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
+|**2025-04-30**|**Trace-of-Thought Prompting: Investigating Prompt-Based Knowledge Distillation Through Question Decomposition**|Tyler McDonald et.al.|[2504.20946](http://arxiv.org/abs/2504.20946)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
 |**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|**[link](https://github.com/adipiz99/RawNetLite)**|
 |**2025-04-29**|**An Empirical Study on the Capability of LLMs in Decomposing Bug Reports**|Zhiyuan Chen et.al.|[2504.20911](http://arxiv.org/abs/2504.20911)|null|
@@ -8287,7 +8287,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -9062,5 +9062,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
