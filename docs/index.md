@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -691,17 +691,17 @@ layout: default
 |**2025-05-01**|**Investigating Task Arithmetic for Zero-Shot Information Retrieval**|Marco Braga et.al.|[2505.00649](http://arxiv.org/abs/2505.00649)|null|
 |**2025-05-01**|**Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis**|Zhongying Deng et.al.|[2505.00627](http://arxiv.org/abs/2505.00627)|null|
 |**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626](http://arxiv.org/abs/2505.00626)|null|
-|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
+|**2025-05-02**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
 |**2025-05-01**|**FineScope : Precision Pruning for Domain-Specialized Large Language Models Using SAE-Guided Self-Data Cultivation**|Chaitali Bhattacharyya et.al.|[2505.00624](http://arxiv.org/abs/2505.00624)|null|
 |**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain et.al.|[2505.00615](http://arxiv.org/abs/2505.00615)|null|
 |**2025-05-01**|**Combining LLMs with Logic-Based Framework to Explain MCTS**|Ziyan An et.al.|[2505.00610](http://arxiv.org/abs/2505.00610)|null|
 |**2025-05-01**|**Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4**|Phanish Puranam et.al.|[2505.00603](http://arxiv.org/abs/2505.00603)|null|
-|**2025-05-01**|**Fast and Low-Cost Genomic Foundation Models via Outlier Removal**|Haozheng Luo et.al.|[2505.00598](http://arxiv.org/abs/2505.00598)|**[link](https://github.com/MAGICS-LAB/GERM)**|
+|**2025-05-02**|**Fast and Low-Cost Genomic Foundation Models via Outlier Removal**|Haozheng Luo et.al.|[2505.00598](http://arxiv.org/abs/2505.00598)|**[link](https://github.com/MAGICS-LAB/GERM)**|
 |**2025-05-01**|**Block Circulant Adapter for Large Language Models**|Xinyu Ding et.al.|[2505.00582](http://arxiv.org/abs/2505.00582)|null|
 |**2025-05-01**|**Parameter-Efficient Fine-Tuning with Circulant and Diagonal Vectors**|Xinyu Ding et.al.|[2505.00580](http://arxiv.org/abs/2505.00580)|null|
 |**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
 |**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557](http://arxiv.org/abs/2505.00557)|null|
-|**2025-05-01**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551](http://arxiv.org/abs/2505.00551)|null|
+|**2025-05-02**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551](http://arxiv.org/abs/2505.00551)|null|
 |**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530](http://arxiv.org/abs/2505.00530)|null|
 |**2025-05-01**|**HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**|Deanna Emery et.al.|[2505.00506](http://arxiv.org/abs/2505.00506)|null|
 |**2025-05-01**|**UserCentrix: An Agentic Memory-augmented AI Framework for Smart Spaces**|Alaa Saleh et.al.|[2505.00472](http://arxiv.org/abs/2505.00472)|null|
@@ -721,7 +721,7 @@ layout: default
 |**2025-05-01**|**Large Language Models as AI Agents for Digital Atoms and Molecules: Catalyzing a New Era in Computational Biophysics**|Yijie Xia et.al.|[2505.00270](http://arxiv.org/abs/2505.00270)|null|
 |**2025-05-01**|**EnronQA: Towards Personalized RAG over Private Documents**|Michael J. Ryan et.al.|[2505.00263](http://arxiv.org/abs/2505.00263)|null|
 |**2025-05-01**|**LLM-Based Threat Detection and Prevention Framework for IoT Ecosystems**|Yazan Otoum et.al.|[2505.00240](http://arxiv.org/abs/2505.00240)|null|
-|**2025-05-01**|**Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks**|Vishnu Sarukkai et.al.|[2505.00234](http://arxiv.org/abs/2505.00234)|null|
+|**2025-05-02**|**Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks**|Vishnu Sarukkai et.al.|[2505.00234](http://arxiv.org/abs/2505.00234)|null|
 |**2025-05-01**|**Scaling On-Device GPU Inference for Large Generative Models**|Jiuqiang Tang et.al.|[2505.00232](http://arxiv.org/abs/2505.00232)|null|
 |**2025-05-01**|**ReXGradient-160K: A Large-Scale Publicly Available Dataset of Chest Radiographs with Free-text Reports**|Xiaoman Zhang et.al.|[2505.00228](http://arxiv.org/abs/2505.00228)|null|
 |**2025-04-30**|**RAIL in the Wild: Operationalizing Responsible AI Evaluation Using Anthropic's Value Dataset**|Sumit Verma et.al.|[2505.00204](http://arxiv.org/abs/2505.00204)|null|
@@ -8346,7 +8346,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation**|Xuyang Guo et.al.|[2505.00337](http://arxiv.org/abs/2505.00337)|null|
-|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
+|**2025-05-02**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
 |**2025-04-30**|**Direct Motion Models for Assessing Generated Videos**|Kelsey Allen et.al.|[2505.00209](http://arxiv.org/abs/2505.00209)|null|
 |**2025-04-30**|**Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis**|Michal Geyer et.al.|[2505.00135](http://arxiv.org/abs/2505.00135)|null|
 |**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
