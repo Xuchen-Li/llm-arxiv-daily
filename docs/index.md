@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -52,7 +52,7 @@ layout: default
 |**2025-04-15**|**A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**|Wei Xiong et.al.|[2504.11343](http://arxiv.org/abs/2504.11343)|**[link](https://github.com/rlhflow/minimal-rl)**|
 |**2025-04-15**|**MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique**|Shuhang Liu et.al.|[2504.11009](http://arxiv.org/abs/2504.11009)|null|
 |**2025-04-15**|**CLASH: Evaluating Language Models on Judging High-Stakes Dilemmas from Multiple Perspectives**|Ayoung Lee et.al.|[2504.10823](http://arxiv.org/abs/2504.10823)|null|
-|**2025-04-14**|**Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning**|Saif Punjwani et.al.|[2504.10646](http://arxiv.org/abs/2504.10646)|null|
+|**2025-04-14**|**Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning**|Saif Punjwani et.al.|[2504.10646](http://arxiv.org/abs/2504.10646)|**[link](https://github.com/SaifPunjwani/weight-of-thought)**|
 |**2025-04-30**|**VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge**|Yueqi Song et.al.|[2504.10342](http://arxiv.org/abs/2504.10342)|null|
 |**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Zongcan Ding et.al.|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
 |**2025-04-14**|**PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search**|Pengfei Hu et.al.|[2504.10222](http://arxiv.org/abs/2504.10222)|null|
@@ -63,7 +63,7 @@ layout: default
 |**2025-04-12**|**NoTeS-Bank: Benchmarking Neural Transcription and Search for Scientific Notes Understanding**|Aniket Pal et.al.|[2504.09249](http://arxiv.org/abs/2504.09249)|null|
 |**2025-04-12**|**A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems**|Zixuan Ke et.al.|[2504.09037](http://arxiv.org/abs/2504.09037)|null|
 |**2025-04-11**|**Mixed Signals: Decoding VLMs' Reasoning and Underlying Bias in Vision-Language Conflict**|Pouya Pezeshkpour et.al.|[2504.08974](http://arxiv.org/abs/2504.08974)|null|
-|**2025-05-05**|**VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning**|Haozhe Wang et.al.|[2504.08837](http://arxiv.org/abs/2504.08837)|null|
+|**2025-05-08**|**VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning**|Haozhe Wang et.al.|[2504.08837](http://arxiv.org/abs/2504.08837)|null|
 |**2025-04-06**|**AdaptRec: A Self-Adaptive Framework for Sequential Recommendations with Large Language Models**|Tong Zhang et.al.|[2504.08786](http://arxiv.org/abs/2504.08786)|null|
 |**2025-04-01**|**Accelerating Causal Network Discovery of Alzheimer Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation**|Xiaofan Zhou et.al.|[2504.08768](http://arxiv.org/abs/2504.08768)|null|
 |**2025-04-11**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672](http://arxiv.org/abs/2504.08672)|**[link](https://github.com/xufangzhi/genius)**|
@@ -700,14 +700,14 @@ layout: default
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
 |**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
 |**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601](http://arxiv.org/abs/2505.04601)|null|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
 |**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
 |**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
 |**2025-05-07**|**Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development**|Kuen Sum Cheung et.al.|[2505.04521](http://arxiv.org/abs/2505.04521)|null|
 |**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519](http://arxiv.org/abs/2505.04519)|null|
 |**2025-05-07**|**Detecting Spelling and Grammatical Anomalies in Russian Poetry Texts**|Ilya Koziev et.al.|[2505.04507](http://arxiv.org/abs/2505.04507)|null|
-|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
+|**2025-05-08**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
 |**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486](http://arxiv.org/abs/2505.04486)|null|
 |**2025-05-07**|**CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation**|Jiahao Li et.al.|[2505.04481](http://arxiv.org/abs/2505.04481)|null|
 |**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
@@ -740,7 +740,7 @@ layout: default
 |**2025-05-07**|**Enhancing Granular Sentiment Classification with Chain-of-Thought Prompting in Large Language Models**|Vihaan Miriyala et.al.|[2505.04135](http://arxiv.org/abs/2505.04135)|null|
 |**2025-05-07**|**RFNNS: Robust Fixed Neural Network Steganography with Popular Deep Generative Models**|Yu Cheng et.al.|[2505.04116](http://arxiv.org/abs/2505.04116)|null|
 |**2025-05-07**|**Alpha Excel Benchmark**|David Noever et.al.|[2505.04110](http://arxiv.org/abs/2505.04110)|null|
-|**2025-05-07**|**MAISY: Motion-Aware Image SYnthesis for MedicalImage Motion Correction**|Andrew Zhang et.al.|[2505.04105](http://arxiv.org/abs/2505.04105)|null|
+|**2025-05-08**|**MAISY: Motion-Aware Image SYnthesis for Medical Image Motion Correction**|Andrew Zhang et.al.|[2505.04105](http://arxiv.org/abs/2505.04105)|null|
 |**2025-05-07**|**LLMs' Suitability for Network Security: A Case Study of STRIDE Threat Modeling**|AbdulAziz AbdulGhaffar et.al.|[2505.04101](http://arxiv.org/abs/2505.04101)|null|
 |**2025-05-07**|**An Empirical Study of OpenAI API Discussions on Stack Overflow**|Xiang Chen et.al.|[2505.04084](http://arxiv.org/abs/2505.04084)|null|
 |**2025-05-07**|**QStore: Quantization-Aware Compressed Model Storage**|Raunak Shah et.al.|[2505.04081](http://arxiv.org/abs/2505.04081)|null|
@@ -8673,12 +8673,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
+|**2025-05-08**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-03**|**VideoLLM Benchmarks and Evaluation: A Survey**|Yogesh Kumar et.al.|[2505.03829](http://arxiv.org/abs/2505.03829)|null|
 |**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
 |**2025-05-06**|**Transformers for Learning on Noisy and Task-Level Manifolds: Approximation and Generalization Insights**|Zhaiming Shen et.al.|[2505.03205](http://arxiv.org/abs/2505.03205)|null|
 |**2025-05-06**|**RAVU: Retrieval Augmented Video Understanding with Compositional Reasoning over Graph**|Sameer Malik et.al.|[2505.03173](http://arxiv.org/abs/2505.03173)|null|
-|**2025-05-05**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al.|[2505.02393](http://arxiv.org/abs/2505.02393)|**[link](https://github.com/eavnjeong/ief-vad)**|
+|**2025-05-08**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al.|[2505.02393](http://arxiv.org/abs/2505.02393)|**[link](https://github.com/eavnjeong/ief-vad)**|
 |**2025-05-04**|**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization**|Wenchuan Wang et.al.|[2505.02192](http://arxiv.org/abs/2505.02192)|null|
 |**2025-05-03**|**CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture**|Vladimir Frants et.al.|[2505.01882](http://arxiv.org/abs/2505.01882)|null|
 |**2025-05-03**|**An LLM-Empowered Low-Resolution Vision System for On-Device Human Behavior Understanding**|Siyang Jiang et.al.|[2505.01743](http://arxiv.org/abs/2505.01743)|null|
@@ -8693,7 +8693,7 @@ layout: default
 |**2025-04-30**|**Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis**|Michal Geyer et.al.|[2505.00135](http://arxiv.org/abs/2505.00135)|null|
 |**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
-|**2025-04-30**|**SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding**|Chenkai Zhang et.al.|[2504.21435](http://arxiv.org/abs/2504.21435)|**[link](https://github.com/zackhxn/seriesbench-cvpr2025)**|
+|**2025-05-08**|**SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding**|Chenkai Zhang et.al.|[2504.21435](http://arxiv.org/abs/2504.21435)|**[link](https://github.com/zackhxn/seriesbench-cvpr2025)**|
 |**2025-04-30**|**Static or Dynamic: Towards Query-Adaptive Token Selection for Video Question Answering**|Yumeng Shi et.al.|[2504.21403](http://arxiv.org/abs/2504.21403)|null|
 |**2025-04-30**|**Simple Visual Artifact Detection in Sora-Generated Videos**|Misora Sugiyama et.al.|[2504.21334](http://arxiv.org/abs/2504.21334)|null|
 |**2025-04-30**|**Capturing Conditional Dependence via Auto-regressive Diffusion Models**|Xunpeng Huang et.al.|[2504.21314](http://arxiv.org/abs/2504.21314)|null|
