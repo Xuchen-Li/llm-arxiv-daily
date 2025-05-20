@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -22,11 +22,11 @@ layout: default
 |**2025-05-12**|**Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning**|Xiaokun Wang et.al.|[2505.07263](http://arxiv.org/abs/2505.07263)|null|
 |**2025-05-12**|**Critique Before Thinking: Mitigating Hallucination through Rationale-Augmented Instruction Tuning**|Zexian Yang et.al.|[2505.07172](http://arxiv.org/abs/2505.07172)|null|
 |**2025-05-11**|**Seed1.5-VL Technical Report**|Dong Guo et.al.|[2505.07062](http://arxiv.org/abs/2505.07062)|null|
-|**2025-05-11**|**From Knowledge to Reasoning: Evaluating LLMs for Ionic Liquids Research in Chemical and Biological Engineering**|Gaurab Sarkar et.al.|[2505.06964](http://arxiv.org/abs/2505.06964)|**[link](https://github.com/sougata-ub/llms_for_ionic_liquids)**|
+|**2025-05-17**|**Bridging AI and Carbon Capture: A Dataset for LLMs in Ionic Liquids and CBE Research**|Gaurab Sarkar et.al.|[2505.06964](http://arxiv.org/abs/2505.06964)|**[link](https://github.com/sougata-ub/llms_for_ionic_liquids)**|
 |**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832](http://arxiv.org/abs/2505.06832)|null|
 |**2025-05-11**|**Overview of the NLPCC 2025 Shared Task 4: Multi-modal, Multilingual, and Multi-hop Medical Instructional Video Question Answering Challenge**|Bin Li et.al.|[2505.06814](http://arxiv.org/abs/2505.06814)|null|
 |**2025-05-10**|**STRIVE: Structured Representation Integrating VLM Reasoning for Efficient Object Navigation**|Haokun Zhu et.al.|[2505.06729](http://arxiv.org/abs/2505.06729)|null|
-|**2025-05-09**|**Learn to Think: Bootstrapping LLM Reasoning Capability Through Graph Learning**|Hang Gao et.al.|[2505.06321](http://arxiv.org/abs/2505.06321)|**[link](https://github.com/zch65458525/l2t)**|
+|**2025-05-17**|**Learn to Think: Bootstrapping LLM Reasoning Capability Through Graph Representation Learning**|Hang Gao et.al.|[2505.06321](http://arxiv.org/abs/2505.06321)|**[link](https://github.com/zch65458525/l2t)**|
 |**2025-05-07**|**Q-Heart: ECG Question Answering via Knowledge-Informed Multimodal LLMs**|Hung Manh Pham et.al.|[2505.06296](http://arxiv.org/abs/2505.06296)|null|
 |**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
 |**2025-05-12**|**APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning**|Azim Ospanov et.al.|[2505.05758](http://arxiv.org/abs/2505.05758)|null|
@@ -52,7 +52,7 @@ layout: default
 |**2025-04-29**|**Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression**|Yu Cui et.al.|[2504.20493](http://arxiv.org/abs/2504.20493)|null|
 |**2025-04-30**|**VideoMultiAgents: A Multi-Agent Framework for Video Question Answering**|Noriyuki Kugo et.al.|[2504.20091](http://arxiv.org/abs/2504.20091)|**[link](https://github.com/panasonicconnect/videomultiagents)**|
 |**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
-|**2025-04-27**|**SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning**|Jiaqi Chen et.al.|[2504.19162](http://arxiv.org/abs/2504.19162)|null|
+|**2025-05-17**|**SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning**|Jiaqi Chen et.al.|[2504.19162](http://arxiv.org/abs/2504.19162)|null|
 |**2025-04-27**|**CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges**|Yu Li et.al.|[2504.19093](http://arxiv.org/abs/2504.19093)|null|
 |**2025-04-24**|**Training Large Language Models to Reason via EM Policy Gradient**|Tianbing Xu et.al.|[2504.18587](http://arxiv.org/abs/2504.18587)|null|
 |**2025-05-08**|**MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind**|Zheng Zhang et.al.|[2504.18039](http://arxiv.org/abs/2504.18039)|null|
@@ -804,7 +804,7 @@ layout: default
 |**2025-05-16**|**Space Group Equivariant Crystal Diffusion**|Rees Chang et.al.|[2505.10994](http://arxiv.org/abs/2505.10994)|null|
 |**2025-05-16**|**Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges**|Yuan Zhang et.al.|[2505.10993](http://arxiv.org/abs/2505.10993)|null|
 |**2025-05-16**|**ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks**|Feiran You et.al.|[2505.10992](http://arxiv.org/abs/2505.10992)|null|
-|**2025-05-16**|**GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models**|Haozheng Luo et.al.|[2505.10983](http://arxiv.org/abs/2505.10983)|null|
+|**2025-05-16**|**GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Genomic Foundation Models**|Haozheng Luo et.al.|[2505.10983](http://arxiv.org/abs/2505.10983)|**[link](https://github.com/MAGICS-LAB/GenoArmory)**|
 |**2025-05-16**|**Rethinking the Role of Prompting Strategies in LLM Test-Time Scaling: A Perspective of Probability Theory**|Yexiang Liu et.al.|[2505.10981](http://arxiv.org/abs/2505.10981)|null|
 |**2025-05-16**|**Group-in-Group Policy Optimization for LLM Agent Training**|Lang Feng et.al.|[2505.10978](http://arxiv.org/abs/2505.10978)|null|
 |**2025-05-16**|**Can Large Language Models Correctly Interpret Equations with Errors?**|Lachlan McGinness et.al.|[2505.10966](http://arxiv.org/abs/2505.10966)|null|
