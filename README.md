@@ -512,7 +512,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-18**|**KG-QAGen: A Knowledge-Graph-Based Framework for Systematic Question Generation and Long-Context LLM Evaluation**|Nikita Tatarinov et.al.|[2505.12495](http://arxiv.org/abs/2505.12495)|null|
-|**2025-05-17**|**Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation**|Vincent Koc et.al.|[2505.12058](http://arxiv.org/abs/2505.12058)|null|
+|**2025-05-17**|**Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation & Smoke-Tests for Continuous LLM Evaluation**|Vincent Koc et.al.|[2505.12058](http://arxiv.org/abs/2505.12058)|**[link](https://github.com/vincentkoc/tiny_qa_benchmark_pp)**|
 |**2025-05-15**|**Model Performance-Guided Evaluation Data Selection for Effective Prompt Optimization**|Ximing Dong et.al.|[2505.10736](http://arxiv.org/abs/2505.10736)|null|
 |**2025-05-13**|**A suite of LMs comprehend puzzle statements as well as humans**|Adele E Goldberg et.al.|[2505.08996](http://arxiv.org/abs/2505.08996)|null|
 |**2025-05-13**|**Towards Contamination Resistant Benchmarks**|Rahmatullah Musawi et.al.|[2505.08389](http://arxiv.org/abs/2505.08389)|null|
@@ -799,7 +799,7 @@
 |**2025-05-19**|**Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations**|Krzysztof Lebioda et.al.|[2505.13263](http://arxiv.org/abs/2505.13263)|null|
 |**2025-05-19**|**From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery**|Tianshi Zheng et.al.|[2505.13259](http://arxiv.org/abs/2505.13259)|**[link](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery)**|
 |**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258](http://arxiv.org/abs/2505.13258)|null|
-|**2025-05-19**|**Policy Contrastive Decoding for Robotic Foundation Models**|Shihan Wu et.al.|[2505.13255](http://arxiv.org/abs/2505.13255)|null|
+|**2025-05-19**|**Policy Contrastive Decoding for Robotic Foundation Models**|Shihan Wu et.al.|[2505.13255](http://arxiv.org/abs/2505.13255)|**[link](https://github.com/Koorye/PCD)**|
 |**2025-05-19**|**HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding**|Siran Liu et.al.|[2505.13254](http://arxiv.org/abs/2505.13254)|null|
 |**2025-05-19**|**RN-F: A Novel Approach for Mitigating Contaminated Data in Large Language Models**|Le Vu Anh et.al.|[2505.13249](http://arxiv.org/abs/2505.13249)|null|
 |**2025-05-19**|**JNLP at SemEval-2025 Task 11: Cross-Lingual Multi-Label Emotion Detection Using Generative Models**|Jieying Xue et.al.|[2505.13244](http://arxiv.org/abs/2505.13244)|**[link](https://github.com/yingjie7/mlingual_multilabel_emo_detection)**|
