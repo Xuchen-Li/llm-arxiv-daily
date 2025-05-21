@@ -9581,7 +9581,7 @@
 |**2025-05-19**|**FLASH: Latent-Aware Semi-Autoregressive Speculative Decoding for Multimodal Tasks**|Zihua Wang et.al.|[2505.12728](http://arxiv.org/abs/2505.12728)|null|
 |**2025-05-19**|**DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories**|Joel Jang et.al.|[2505.12705](http://arxiv.org/abs/2505.12705)|null|
 |**2025-05-19**|**Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking**|Zihan Su et.al.|[2505.12667](http://arxiv.org/abs/2505.12667)|null|
-|**2025-05-19**|**BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation**|Haiquan Wen et.al.|[2505.12620](http://arxiv.org/abs/2505.12620)|null|
+|**2025-05-19**|**BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation**|Haiquan Wen et.al.|[2505.12620](http://arxiv.org/abs/2505.12620)|**[link](https://github.com/l8cv/busterx)**|
 |**2025-05-19**|**Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding**|Thong Nguyen et.al.|[2505.12605](http://arxiv.org/abs/2505.12605)|null|
 |**2025-05-19**|**SurveillanceVQA-589K: A Benchmark for Comprehensive Surveillance Video-Language Understanding with Large Models**|Bo Liu et.al.|[2505.12589](http://arxiv.org/abs/2505.12589)|null|
 |**2025-05-20**|**Contrastive Alignment with Semantic Gap-Aware Corrections in Text-Video Retrieval**|Jian Xiao et.al.|[2505.12499](http://arxiv.org/abs/2505.12499)|**[link](https://github.com/musicman217/gare-text-video-retrieval)**|
