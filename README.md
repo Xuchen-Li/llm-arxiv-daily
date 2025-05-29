@@ -982,7 +982,7 @@
 |**2025-05-28**|**Developing a Top-tier Framework in Naturalistic Conditions Challenge for Categorized Emotion Prediction: From Speech Foundation Models and Learning Objective to Data Augmentation and Engineering Choices**|Tiantian Feng et.al.|[2505.22133](http://arxiv.org/abs/2505.22133)|null|
 |**2025-05-28**|**EULER: Enhancing the Reasoning Ability of Large Language Models through Error-Induced Learning**|Zhuoyang Wu et.al.|[2505.22131](http://arxiv.org/abs/2505.22131)|null|
 |**2025-05-28**|**SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**|Yifan Chang et.al.|[2505.22126](http://arxiv.org/abs/2505.22126)|null|
-|**2025-05-28**|**LoKI: Low-damage Knowledge Implanting of Large Language Models**|Runyu Wang et.al.|[2505.22120](http://arxiv.org/abs/2505.22120)|null|
+|**2025-05-28**|**LoKI: Low-damage Knowledge Implanting of Large Language Models**|Runyu Wang et.al.|[2505.22120](http://arxiv.org/abs/2505.22120)|**[link](https://github.com/Nexround/LoKI)**|
 |**2025-05-28**|**THINK-Bench: Evaluating Thinking Efficiency and Chain-of-Thought Quality of Large Reasoning Models**|Zhiyuan Li et.al.|[2505.22113](http://arxiv.org/abs/2505.22113)|null|
 |**2025-05-28**|**Visual Large Language Models Exhibit Human-Level Cognitive Flexibility in the Wisconsin Card Sorting Test**|Guangfu Hao et.al.|[2505.22112](http://arxiv.org/abs/2505.22112)|null|
 |**2025-05-28**|**Curse of High Dimensionality Issue in Transformer for Long-context Modeling**|Shuhai Zhang et.al.|[2505.22107](http://arxiv.org/abs/2505.22107)|null|
