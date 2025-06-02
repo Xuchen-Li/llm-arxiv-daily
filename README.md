@@ -1,4 +1,4 @@
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -636,7 +636,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## LLM Evaluation
 
@@ -714,7 +714,7 @@
 |**2025-03-27**|**Evaluating book summaries from internal knowledge in Large Language Models: a cross-model and semantic consistency approach**|Javier Coronado-Blázquez et.al.|[2503.21613](http://arxiv.org/abs/2503.21613)|null|
 |**2025-05-19**|**Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models**|Haoxiang Sun et.al.|[2503.21380](http://arxiv.org/abs/2503.21380)|**[link](https://github.com/rucaibox/olymmath)**|
 |**2025-03-25**|**FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models**|Dahyun Jung et.al.|[2503.19540](http://arxiv.org/abs/2503.19540)|**[link](https://github.com/ekgus9/FLEX)**|
-|**2025-03-24**|**LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages**|Patrick Diehl et.al.|[2503.19217](http://arxiv.org/abs/2503.19217)|null|
+|**2025-05-30**|**LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages**|Patrick Diehl et.al.|[2503.19217](http://arxiv.org/abs/2503.19217)|null|
 |**2025-03-28**|**Overtrained Language Models Are Harder to Fine-Tune**|Jacob Mitchell Springer et.al.|[2503.19206](http://arxiv.org/abs/2503.19206)|null|
 |**2025-03-25**|**Decorum: A Language-Based Approach For Style-Conditioned Synthesis of Indoor 3D Scenes**|Kelly O. Marshall et.al.|[2503.18155](http://arxiv.org/abs/2503.18155)|null|
 |**2025-05-14**|**Evaluating Clinical Competencies of Large Language Models with a General Practice Benchmark**|Zheqing Li et.al.|[2503.17599](http://arxiv.org/abs/2503.17599)|null|
@@ -917,7 +917,7 @@
 |**2024-10-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|**[link](https://github.com/ulrs0/MA-PO)**|
 |**2024-10-19**|**Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks**|Junseok Kim et.al.|[2408.08631](http://arxiv.org/abs/2408.08631)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -990,7 +990,7 @@
 |**2025-05-29**|**Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency**|Jun Yang et.al.|[2505.23471](http://arxiv.org/abs/2505.23471)|null|
 |**2025-05-29**|**Diffusion Guidance Is a Controllable Policy Improvement Operator**|Kevin Frans et.al.|[2505.23458](http://arxiv.org/abs/2505.23458)|**[link](https://github.com/kvfrans/cfgrl)**|
 |**2025-05-29**|**What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews**|Quim Motger et.al.|[2505.23452](http://arxiv.org/abs/2505.23452)|**[link](https://github.com/nlp4se/review-emotion-analysis)**|
-|**2025-05-29**|**CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection**|Fanxiao Li et.al.|[2505.23449](http://arxiv.org/abs/2505.23449)|null|
+|**2025-05-30**|**CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection**|Fanxiao Li et.al.|[2505.23449](http://arxiv.org/abs/2505.23449)|null|
 |**2025-05-29**|**Diversity-Aware Policy Optimization for Large Language Model Reasoning**|Jian Yao et.al.|[2505.23433](http://arxiv.org/abs/2505.23433)|null|
 |**2025-05-29**|**SWE-bench Goes Live!**|Linghao Zhang et.al.|[2505.23419](http://arxiv.org/abs/2505.23419)|**[link](https://github.com/microsoft/swe-bench-live)**|
 |**2025-05-29**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416](http://arxiv.org/abs/2505.23416)|**[link](https://github.com/snu-mllab/kvzip)**|
@@ -10404,7 +10404,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -11333,5 +11333,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
