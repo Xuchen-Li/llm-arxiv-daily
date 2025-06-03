@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -53,7 +53,7 @@
 |**2025-05-27**|**Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation**|Tharindu Kumarage et.al.|[2505.21784](http://arxiv.org/abs/2505.21784)|null|
 |**2025-05-27**|**Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**|Sohyun An et.al.|[2505.21765](http://arxiv.org/abs/2505.21765)|null|
 |**2025-05-27**|**R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing**|Tianyu Fu et.al.|[2505.21600](http://arxiv.org/abs/2505.21600)|**[link](https://github.com/thu-nics/r2r)**|
-|**2025-05-23**|**More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models**|Chengzhi Liu et.al.|[2505.21523](http://arxiv.org/abs/2505.21523)|null|
+|**2025-05-31**|**More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models**|Chengzhi Liu et.al.|[2505.21523](http://arxiv.org/abs/2505.21523)|null|
 |**2025-05-27**|**Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?**|Junhao Cheng et.al.|[2505.21374](http://arxiv.org/abs/2505.21374)|null|
 |**2025-05-27**|**MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs**|Jiakang Yuan et.al.|[2505.21327](http://arxiv.org/abs/2505.21327)|null|
 |**2025-05-27**|**Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**|Mingyang Song et.al.|[2505.21178](http://arxiv.org/abs/2505.21178)|null|
@@ -87,7 +87,7 @@
 |**2025-05-25**|**SituatedThinker: Grounding LLM Reasoning with Real-World through Situated Thinking**|Junnan Liu et.al.|[2505.19300](http://arxiv.org/abs/2505.19300)|**[link](https://github.com/jnanliu/situatedthinker)**|
 |**2025-05-28**|**VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**|Mingyuan Wu et.al.|[2505.19255](http://arxiv.org/abs/2505.19255)|null|
 |**2025-05-25**|**ASPO: Adaptive Sentence-Level Preference Optimization for Fine-Grained Multimodal Reasoning**|Yeyuan Wang et.al.|[2505.19100](http://arxiv.org/abs/2505.19100)|null|
-|**2025-05-28**|**SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning**|Kun Xiang et.al.|[2505.19099](http://arxiv.org/abs/2505.19099)|**[link](https://github.com/seephys/seephys-project)**|
+|**2025-05-30**|**SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning**|Kun Xiang et.al.|[2505.19099](http://arxiv.org/abs/2505.19099)|**[link](https://github.com/seephys/seephys-project)**|
 |**2025-05-25**|**SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards**|Chuming Shen et.al.|[2505.19094](http://arxiv.org/abs/2505.19094)|**[link](https://github.com/justairr/satori-r1)**|
 |**2025-05-25**|**ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning**|Tuan Van Vo et.al.|[2505.19080](http://arxiv.org/abs/2505.19080)|null|
 |**2025-05-25**|**Can Large Language Models Infer Causal Relationships from Real-World Text?**|Ryan Saklad et.al.|[2505.18931](http://arxiv.org/abs/2505.18931)|null|
@@ -96,7 +96,7 @@
 |**2025-05-24**|**How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark**|Minglai Yang et.al.|[2505.18761](http://arxiv.org/abs/2505.18761)|**[link](https://github.com/mlyann/gsm-dc)**|
 |**2025-05-24**|**GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis**|Yi Jiang et.al.|[2505.18710](http://arxiv.org/abs/2505.18710)|**[link](https://github.com/liunian-jay/gainrag)**|
 |**2025-05-24**|**Steering LLM Reasoning Through Bias-Only Adaptation**|Viacheslav Sinii et.al.|[2505.18706](http://arxiv.org/abs/2505.18706)|null|
-|**2025-05-24**|**ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation**|Zhen Li et.al.|[2505.18668](http://arxiv.org/abs/2505.18668)|**[link](https://github.com/chartgalaxy/chartgalaxy)**|
+|**2025-05-31**|**ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation**|Zhen Li et.al.|[2505.18668](http://arxiv.org/abs/2505.18668)|**[link](https://github.com/chartgalaxy/chartgalaxy)**|
 |**2025-05-24**|**Unraveling Misinformation Propagation in LLM Reasoning**|Yiyang Feng et.al.|[2505.18555](http://arxiv.org/abs/2505.18555)|**[link](https://github.com/wind-2375-like/misinfo-prop)**|
 |**2025-05-23**|**One Demo Is All It Takes: Planning Domain Derivation with LLMs from A Single Demonstration**|Jinbang Huang et.al.|[2505.18382](http://arxiv.org/abs/2505.18382)|null|
 |**2025-05-23**|**Seeing Beyond Words: MatVQA for Challenging Visual-Scientific Reasoning in Materials Science**|Sifan Wu et.al.|[2505.18319](http://arxiv.org/abs/2505.18319)|null|
@@ -649,7 +649,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## LLM Evaluation
 
@@ -936,7 +936,7 @@
 |**2024-10-16**|**The Fellowship of the LLMs: Multi-Agent Workflows for Synthetic Preference Optimization Dataset Generation**|Samee Arif et.al.|[2408.08688](http://arxiv.org/abs/2408.08688)|**[link](https://github.com/ulrs0/MA-PO)**|
 |**2024-10-19**|**Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks**|Junseok Kim et.al.|[2408.08631](http://arxiv.org/abs/2408.08631)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -10523,7 +10523,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -10619,7 +10619,7 @@
 |**2025-05-22**|**SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding**|Sushant Gautam et.al.|[2505.16630](http://arxiv.org/abs/2505.16630)|null|
 |**2025-05-22**|**Temporal Object Captioning for Street Scene Videos from LiDAR Tracks**|Vignesh Gopinathan et.al.|[2505.16594](http://arxiv.org/abs/2505.16594)|null|
 |**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
-|**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|**[link](https://github.com/tiger-ai-lab/quickvideo)**|
+|**2025-05-31**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|**[link](https://github.com/tiger-ai-lab/quickvideo)**|
 |**2025-05-21**|**ViQAgent: Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation**|Tony Montes et.al.|[2505.15928](http://arxiv.org/abs/2505.15928)|**[link](https://github.com/t-montes/viqagent)**|
 |**2025-05-23**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880](http://arxiv.org/abs/2505.15880)|null|
 |**2025-05-21**|**Generative AI for Autonomous Driving: A Review**|Katharina Winter et.al.|[2505.15863](http://arxiv.org/abs/2505.15863)|null|
@@ -11469,5 +11469,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
