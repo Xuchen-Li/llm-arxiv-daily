@@ -20,7 +20,7 @@
 |**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511](http://arxiv.org/abs/2505.24511)|null|
 |**2025-05-30**|**Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation**|Ximing Xing et.al.|[2505.24499](http://arxiv.org/abs/2505.24499)|null|
 |**2025-05-30**|**How Much Backtracking is Enough? Exploring the Interplay of SFT and RL in Enhancing LLM Reasoning**|Hongyi James Cai et.al.|[2505.24273](http://arxiv.org/abs/2505.24273)|null|
-|**2025-05-30**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
+|**2025-06-02**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
 |**2025-05-30**|**Semi-structured LLM Reasoners Can Be Rigorously Audited**|Jixuan Leng et.al.|[2505.24217](http://arxiv.org/abs/2505.24217)|null|
 |**2025-05-30**|**HardTests: Synthesizing High-Quality Test Cases for LLM Coding**|Zhongmou He et.al.|[2505.24098](http://arxiv.org/abs/2505.24098)|null|
 |**2025-05-29**|**Preemptive Hallucination Reduction: An Input-Level Approach for Multimodal Language Model**|Nokimul Hasan Arif et.al.|[2505.24007](http://arxiv.org/abs/2505.24007)|null|
@@ -959,7 +959,7 @@
 |**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
 |**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823](http://arxiv.org/abs/2505.24823)|null|
 |**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819](http://arxiv.org/abs/2505.24819)|null|
-|**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
+|**2025-06-02**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
 |**2025-05-30**|**Inference Acceleration of Autoregressive Normalizing Flows by Selective Jacobi Decoding**|Jiaru Zhang et.al.|[2505.24791](http://arxiv.org/abs/2505.24791)|null|
 |**2025-05-30**|**Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation**|Yucheng Zhou et.al.|[2505.24787](http://arxiv.org/abs/2505.24787)|null|
 |**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784](http://arxiv.org/abs/2505.24784)|null|
