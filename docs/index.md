@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -20,7 +20,7 @@ layout: default
 |**2025-06-10**|**Wait, We Don't Need to "Wait"! Removing Thinking Tokens Improves Reasoning Efficiency**|Chenlong Wang et.al.|[2506.08343](http://arxiv.org/abs/2506.08343)|null|
 |**2025-06-09**|**From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium**|Xie Yi et.al.|[2506.08292](http://arxiv.org/abs/2506.08292)|null|
 |**2025-06-09**|**Automatic Generation of Inference Making Questions for Reading Comprehension Assessments**|Wanjing Anya Ma et.al.|[2506.08260](http://arxiv.org/abs/2506.08260)|null|
-|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-12**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-11**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
 |**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905](http://arxiv.org/abs/2506.07905)|null|
 |**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
@@ -36,7 +36,7 @@ layout: default
 |**2025-06-08**|**Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs**|Wenrui Zhou et.al.|[2506.07180](http://arxiv.org/abs/2506.07180)|null|
 |**2025-06-08**|**Learning Compact Vision Tokens for Efficient Large Multimodal Models**|Hao Tang et.al.|[2506.07138](http://arxiv.org/abs/2506.07138)|**[link](https://github.com/visresearch/LLaVA-STF)**|
 |**2025-06-08**|**Theorem-of-Thought: A Multi-Agent Framework for Abductive, Deductive, and Inductive Reasoning in Language Models**|Samir Abdaljalil et.al.|[2506.07106](http://arxiv.org/abs/2506.07106)|null|
-|**2025-06-08**|**Break-The-Chain: Reasoning Failures in LLMs via Adversarial Prompting in Code Generation**|Jaechul Roh et.al.|[2506.06971](http://arxiv.org/abs/2506.06971)|null|
+|**2025-06-12**|**Chain-of-Code Collapse: Reasoning Failures in LLMs via Adversarial Prompting in Code Generation**|Jaechul Roh et.al.|[2506.06971](http://arxiv.org/abs/2506.06971)|null|
 |**2025-06-07**|**Boosting LLM Reasoning via Spontaneous Self-Correction**|Xutong Zhao et.al.|[2506.06923](http://arxiv.org/abs/2506.06923)|null|
 |**2025-06-07**|**Harnessing Vision-Language Models for Time Series Anomaly Detection**|Zelin He et.al.|[2506.06836](http://arxiv.org/abs/2506.06836)|null|
 |**2025-06-07**|**VisioMath: Benchmarking Figure-based Mathematical Reasoning in LMMs**|Can Li et.al.|[2506.06727](http://arxiv.org/abs/2506.06727)|null|
@@ -50,7 +50,7 @@ layout: default
 |**2025-06-05**|**MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning**|Zikui Cai et.al.|[2506.05523](http://arxiv.org/abs/2506.05523)|null|
 |**2025-06-05**|**DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning**|Tanmay Parekh et.al.|[2506.05128](http://arxiv.org/abs/2506.05128)|null|
 |**2025-06-09**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069](http://arxiv.org/abs/2506.05069)|null|
-|**2025-06-11**|**Context Is Not Comprehension: Unmasking LLM reasoning blind spots with VLO**|Alex Pan et.al.|[2506.04907](http://arxiv.org/abs/2506.04907)|null|
+|**2025-06-12**|**Context Is Not Comprehension**|Alex Pan et.al.|[2506.04907](http://arxiv.org/abs/2506.04907)|null|
 |**2025-06-05**|**ICPC-Eval: Probing the Frontiers of LLM Reasoning with Competitive Programming Contests**|Shiyi Xu et.al.|[2506.04894](http://arxiv.org/abs/2506.04894)|null|
 |**2025-06-10**|**Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design**|Lin Sun et.al.|[2506.04734](http://arxiv.org/abs/2506.04734)|null|
 |**2025-06-05**|**Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation**|Yuyang Wanyan et.al.|[2506.04614](http://arxiv.org/abs/2506.04614)|null|
@@ -1083,14 +1083,14 @@ layout: default
 |**2025-06-11**|**Benchmarking Debiasing Methods for LLM-based Parameter Estimates**|Nicolas Audinet de Pieuchon et.al.|[2506.09627](http://arxiv.org/abs/2506.09627)|null|
 |**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
 |**2025-06-11**|**Latent geometry emerging from network-driven processes**|Andrea Filippo Beretta et.al.|[2506.09616](http://arxiv.org/abs/2506.09616)|null|
-|**2025-06-11**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao LI et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|null|
+|**2025-06-12**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao Li et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|null|
 |**2025-06-11**|**ASTAGEN: Empirical Evaluation of Automated SATD Taxonomy Generation with LLMs**|Sota Nakashima et.al.|[2506.09601](http://arxiv.org/abs/2506.09601)|null|
 |**2025-06-11**|**Generic models of licci ideals parametrized by Schur functors**|Lorenzo Guerrieri et.al.|[2506.09598](http://arxiv.org/abs/2506.09598)|null|
 |**2025-06-11**|**Beyond Overconfidence: Foundation Models Redefine Calibration in Deep Neural Networks**|Achim Hekler et.al.|[2506.09593](http://arxiv.org/abs/2506.09593)|null|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
 |**2025-06-11**|**From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies**|Blaž Škrlj et.al.|[2506.09566](http://arxiv.org/abs/2506.09566)|null|
 |**2025-06-11**|**Towards Open Foundation Language Model and Corpus for Macedonian: A Low-Resource Language**|Stefan Krsteski et.al.|[2506.09560](http://arxiv.org/abs/2506.09560)|null|
-|**2025-06-11**|**Understanding the Performance and Power of LLM Inferencing on Edge Accelerators**|Mayank Arya et.al.|[2506.09554](http://arxiv.org/abs/2506.09554)|null|
+|**2025-06-12**|**Understanding the Performance and Power of LLM Inferencing on Edge Accelerators**|Mayank Arya et.al.|[2506.09554](http://arxiv.org/abs/2506.09554)|null|
 |**2025-06-11**|**Automated Synthesis of Formally Verified Multi-Abstraction Function Summaries**|Fanpeng Yang et.al.|[2506.09550](http://arxiv.org/abs/2506.09550)|null|
 |**2025-06-11**|**LLM-Powered CPI Prediction Inference with Online Text Time Series**|Yingying Fan et.al.|[2506.09516](http://arxiv.org/abs/2506.09516)|null|
 |**2025-06-11**|**ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning**|Yu Sun et.al.|[2506.09513](http://arxiv.org/abs/2506.09513)|null|
@@ -1109,7 +1109,7 @@ layout: default
 |**2025-06-11**|**Improved Supervised Fine-Tuning for Large Language Models to Mitigate Catastrophic Forgetting**|Fei Ding et.al.|[2506.09428](http://arxiv.org/abs/2506.09428)|null|
 |**2025-06-11**|**Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings**|Md Messal Monem Miah et.al.|[2506.09424](http://arxiv.org/abs/2506.09424)|null|
 |**2025-06-11**|**Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation**|Ye Niu et.al.|[2506.09422](http://arxiv.org/abs/2506.09422)|null|
-|**2025-06-11**|**A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**|Henry Peng Zou et.al.|[2506.09420](http://arxiv.org/abs/2506.09420)|null|
+|**2025-06-11**|**A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**|Henry Peng Zou et.al.|[2506.09420](http://arxiv.org/abs/2506.09420)|**[link](https://github.com/henrypengzou/awesome-llm-based-human-agent-systems)**|
 |**2025-06-11**|**PGDA-KGQA: A Prompt-Guided Generative Framework with Multiple Data Augmentation Strategies for Knowledge Graph Question Answering**|Xiujun Zhou et.al.|[2506.09414](http://arxiv.org/abs/2506.09414)|null|
 |**2025-06-11**|**Token Constraint Decoding Improves Robustness on Question Answering for Large Language Models**|Jui-Ming Yao et.al.|[2506.09408](http://arxiv.org/abs/2506.09408)|null|
 |**2025-06-11**|**A theoretical basis for model collapse in recursive training**|Vivek Shripad Borkar et.al.|[2506.09401](http://arxiv.org/abs/2506.09401)|null|
@@ -11327,7 +11327,7 @@ layout: default
 |**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
 |**2025-06-10**|**VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks**|Xinlong Chen et.al.|[2506.09079](http://arxiv.org/abs/2506.09079)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
-|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
 |**2025-06-10**|**HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**|Ziyao Huang et.al.|[2506.08797](http://arxiv.org/abs/2506.08797)|null|
 |**2025-06-10**|**MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding**|Zhiyi Zhu et.al.|[2506.08512](http://arxiv.org/abs/2506.08512)|null|
 |**2025-06-10**|**How Much To Guide: Revisiting Adaptive Guidance in Classifier-Free Guidance Text-to-Vision Diffusion Models**|Huixuan Zhang et.al.|[2506.08351](http://arxiv.org/abs/2506.08351)|null|
