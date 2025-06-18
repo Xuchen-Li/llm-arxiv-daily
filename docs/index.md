@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1089,17 +1089,17 @@ layout: default
 |**2025-06-16**|**Qwen vs. Gemma Integration with Whisper: A Comparative Study in Multilingual SpeechLLM Systems**|Tuan Nguyen et.al.|[2506.13596](http://arxiv.org/abs/2506.13596)|null|
 |**2025-06-16**|**Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs**|Hen Davidov et.al.|[2506.13593](http://arxiv.org/abs/2506.13593)|null|
 |**2025-06-16**|**Omni-AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented for Efficient Long Video Understanding**|Zhucun Xue et.al.|[2506.13589](http://arxiv.org/abs/2506.13589)|null|
-|**2025-06-16**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|null|
+|**2025-06-17**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|null|
 |**2025-06-16**|**Implicit and Explicit Research Quality Score Probabilities from ChatGPT**|Mike Thelwall et.al.|[2506.13525](http://arxiv.org/abs/2506.13525)|null|
 |**2025-06-16**|**TensorSLM: Energy-efficient Embedding Compression of Sub-billion Parameter Language Models on Low-end Devices**|Mingxue Xu et.al.|[2506.13514](http://arxiv.org/abs/2506.13514)|null|
-|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
+|**2025-06-17**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
 |**2025-06-16**|**BOW: Bottlenecked Next Word Exploration**|Ming Shen et.al.|[2506.13502](http://arxiv.org/abs/2506.13502)|null|
 |**2025-06-16**|**A Survey on Imitation Learning for Contact-Rich Tasks in Robotics**|Toshiaki Tsuji et.al.|[2506.13498](http://arxiv.org/abs/2506.13498)|null|
 |**2025-06-16**|**Watermarking LLM-Generated Datasets in Downstream Tasks**|Yugeng Liu et.al.|[2506.13494](http://arxiv.org/abs/2506.13494)|null|
 |**2025-06-16**|**Deep Diffusion Models and Unsupervised Hyperspectral Unmixing for Realistic Abundance Map Synthesis**|Martina Pastorino et.al.|[2506.13484](http://arxiv.org/abs/2506.13484)|null|
 |**2025-06-16**|**Position: Pause Recycling LoRAs and Prioritize Mechanisms to Uncover Limits and Effectiveness**|Mei-Yen Chen et.al.|[2506.13479](http://arxiv.org/abs/2506.13479)|null|
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474](http://arxiv.org/abs/2506.13474)|null|
-|**2025-06-16**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472](http://arxiv.org/abs/2506.13472)|null|
+|**2025-06-17**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472](http://arxiv.org/abs/2506.13472)|null|
 |**2025-06-16**|**Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study**|Zhengyu Hu et.al.|[2506.13464](http://arxiv.org/abs/2506.13464)|null|
 |**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443](http://arxiv.org/abs/2506.13443)|null|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
@@ -1109,7 +1109,7 @@ layout: default
 |**2025-06-16**|**Bi-directional Context-Enhanced Speech Large Language Models for Multilingual Conversational ASR**|Yizhou Peng et.al.|[2506.13396](http://arxiv.org/abs/2506.13396)|null|
 |**2025-06-16**|**Delving Into the Psychology of Machines: Exploring the Structure of Self-Regulated Learning via LLM-Generated Survey Responses**|Leonie V. D. E. Vogelsmeier et.al.|[2506.13384](http://arxiv.org/abs/2506.13384)|null|
 |**2025-06-16**|**Decompositional Reasoning for Graph Retrieval with Large Language Models**|Valentin Six et.al.|[2506.13380](http://arxiv.org/abs/2506.13380)|null|
-|**2025-06-16**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369](http://arxiv.org/abs/2506.13369)|null|
+|**2025-06-17**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369](http://arxiv.org/abs/2506.13369)|null|
 |**2025-06-16**|**Socratic RL: A Novel Framework for Efficient Knowledge Acquisition through Iterative Reflection and Viewpoint Distillation**|Xiangfan Wu et.al.|[2506.13358](http://arxiv.org/abs/2506.13358)|null|
 |**2025-06-16**|**StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns**|Luanbo Wan et.al.|[2506.13356](http://arxiv.org/abs/2506.13356)|null|
 |**2025-06-16**|**Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks**|Yifei Xu et.al.|[2506.13351](http://arxiv.org/abs/2506.13351)|null|
@@ -1135,7 +1135,7 @@ layout: default
 |**2025-06-16**|**From Empirical Evaluation to Context-Aware Enhancement: Repairing Regression Errors with LLMs**|Anh Ho et.al.|[2506.13182](http://arxiv.org/abs/2506.13182)|null|
 |**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|null|
 |**2025-06-16**|**Enhancing Large Language Models with Reliable Knowledge Graphs**|Qinggang Zhang et.al.|[2506.13178](http://arxiv.org/abs/2506.13178)|null|
-|**2025-06-16**|**Ai-Facilitated Analysis of Abstracts and Conclusions: Flagging Unsubstantiated Claims and Ambiguous Pronouns**|Evgeny Markhasin et.al.|[2506.13172](http://arxiv.org/abs/2506.13172)|null|
+|**2025-06-17**|**AI-Facilitated Analysis of Abstracts and Conclusions: Flagging Unsubstantiated Claims and Ambiguous Pronouns**|Evgeny Markhasin et.al.|[2506.13172](http://arxiv.org/abs/2506.13172)|null|
 |**2025-06-16**|**Querying Large Automotive Software Models: Agentic vs. Direct LLM Approaches**|Lukasz Mazur et.al.|[2506.13171](http://arxiv.org/abs/2506.13171)|null|
 |**2025-06-16**|**Using LLMs for Security Advisory Investigations: How Far Are We?**|Bayu Fedra Abdullah et.al.|[2506.13161](http://arxiv.org/abs/2506.13161)|null|
 |**2025-06-16**|**Adapting LLMs for Minimal-edit Grammatical Error Correction**|Ryszard Staruch et.al.|[2506.13148](http://arxiv.org/abs/2506.13148)|null|
@@ -11675,7 +11675,7 @@ layout: default
 |**2025-06-11**|**MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed**|Jiaqi Samantha Zhan et.al.|[2506.09409](http://arxiv.org/abs/2506.09409)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
-|**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
+|**2025-06-17**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
 |**2025-06-10**|**VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks**|Xinlong Chen et.al.|[2506.09079](http://arxiv.org/abs/2506.09079)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|**[link](https://github.com/zehong-ma/magcache)**|
 |**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
