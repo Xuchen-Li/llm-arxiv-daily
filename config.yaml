@@ -8,7 +8,6 @@ max_results: 100
 publish_readme: True
 publish_gitpage: True
 
-# file paths
 json_readme_path: './docs/llm-arxiv-daily.json'
 json_gitpage_path: './docs/llm-arxiv-daily-web.json'
 
