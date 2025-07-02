@@ -7,7 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers**|Zhaochen Su et.al.|[2506.23918](http://arxiv.org/abs/2506.23918)|null|
+|**2025-07-01**|**Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers**|Zhaochen Su et.al.|[2506.23918](http://arxiv.org/abs/2506.23918)|null|
 |**2025-06-30**|**Interactive Reasoning: Visualizing and Controlling Chain-of-Thought Reasoning in Large Language Models**|Rock Yuren Pang et.al.|[2506.23678](http://arxiv.org/abs/2506.23678)|null|
 |**2025-06-30**|**MMReason: An Open-Ended Multi-Modal Multi-Step Reasoning Benchmark for MLLMs Toward AGI**|Huanjin Yao et.al.|[2506.23563](http://arxiv.org/abs/2506.23563)|null|
 |**2025-06-29**|**Are Large Language Models Capable of Deep Relational Reasoning? Insights from DeepSeek-R1 and Benchmark Comparisons**|Chi Chiu So et.al.|[2506.23128](http://arxiv.org/abs/2506.23128)|null|
@@ -1120,7 +1120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121](http://arxiv.org/abs/2506.24121)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
@@ -1140,7 +1140,7 @@ layout: default
 |**2025-06-30**|**UMA: A Family of Universal Models for Atoms**|Brandon M. Wood et.al.|[2506.23971](http://arxiv.org/abs/2506.23971)|null|
 |**2025-06-30**|**Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders**|Mathis Le Bail et.al.|[2506.23951](http://arxiv.org/abs/2506.23951)|null|
 |**2025-06-30**|**AI Risk-Management Standards Profile for General-Purpose AI (GPAI) and Foundation Models**|Anthony M. Barrett et.al.|[2506.23949](http://arxiv.org/abs/2506.23949)|null|
-|**2025-06-30**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|
+|**2025-07-01**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|
 |**2025-06-30**|**Leveraging the Potential of Prompt Engineering for Hate Speech Detection in Low-Resource Languages**|Ruhina Tabasshum Prome et.al.|[2506.23930](http://arxiv.org/abs/2506.23930)|null|
 |**2025-06-30**|**IMPACT: Inflectional Morphology Probes Across Complex Typologies**|Mohammed J. Saeed et.al.|[2506.23929](http://arxiv.org/abs/2506.23929)|null|
 |**2025-06-30**|**Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice**|Akshit Kumar et.al.|[2506.23924](http://arxiv.org/abs/2506.23924)|null|
@@ -1154,11 +1154,11 @@ layout: default
 |**2025-06-30**|**Refine Any Object in Any Scene**|Ziwei Chen et.al.|[2506.23835](http://arxiv.org/abs/2506.23835)|null|
 |**2025-06-30**|**Towards the "Digital Me": A vision of authentic Conversational Agents powered by personal Human Digital Twins**|Lluís C. Coll et.al.|[2506.23826](http://arxiv.org/abs/2506.23826)|null|
 |**2025-06-30**|**Flash-VStream: Efficient Real-Time Understanding for Long Video Streams**|Haoji Zhang et.al.|[2506.23825](http://arxiv.org/abs/2506.23825)|null|
-|**2025-06-30**|**The Impact of AI on Educational Assessment: A Framework for Constructive Alignment**|Patrick Stokkink et.al.|[2506.23815](http://arxiv.org/abs/2506.23815)|null|
+|**2025-07-01**|**The Impact of AI on Educational Assessment: A Framework for Constructive Alignment**|Patrick Stokkink et.al.|[2506.23815](http://arxiv.org/abs/2506.23815)|null|
 |**2025-06-30**|**Leveraging a Multi-Agent LLM-Based System to Educate Teachers in Hate Incidents Management**|Ewelina Gajewska et.al.|[2506.23774](http://arxiv.org/abs/2506.23774)|null|
 |**2025-06-30**|**Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead**|Hongzhou Rao et.al.|[2506.23762](http://arxiv.org/abs/2506.23762)|null|
 |**2025-06-30**|**A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications**|Boyang Yang et.al.|[2506.23749](http://arxiv.org/abs/2506.23749)|null|
-|**2025-06-30**|**Positional Bias in Binary Question Answering: How Uncertainty Shapes Model Preferences**|Tiziano Labruna et.al.|[2506.23743](http://arxiv.org/abs/2506.23743)|null|
+|**2025-07-01**|**Positional Bias in Binary Question Answering: How Uncertainty Shapes Model Preferences**|Tiziano Labruna et.al.|[2506.23743](http://arxiv.org/abs/2506.23743)|null|
 |**2025-06-30**|**AutoEvoEval: An Automated Framework for Evolving Close-Ended LLM Evaluation Data**|JiaRu Wu et.al.|[2506.23735](http://arxiv.org/abs/2506.23735)|null|
 |**2025-06-30**|**Radioactive Watermarks in Diffusion and Autoregressive Image Generative Models**|Michel Meintz et.al.|[2506.23731](http://arxiv.org/abs/2506.23731)|null|
 |**2025-06-30**|**System-Embedded Diffusion Bridge Models**|Bartlomiej Sobieski et.al.|[2506.23726](http://arxiv.org/abs/2506.23726)|null|
@@ -1194,7 +1194,7 @@ layout: default
 |**2025-06-30**|**Comparative Analysis of the Code Generated by Popular Large Language Models (LLMs) for MISRA C++ Compliance**|Malik Muhammad Umer et.al.|[2506.23535](http://arxiv.org/abs/2506.23535)|null|
 |**2025-06-30**|**On Recipe Memorization and Creativity in Large Language Models: Is Your Model a Creative Cook, a Bad Cook, or Merely a Plagiator?**|Jan Kvapil et.al.|[2506.23527](http://arxiv.org/abs/2506.23527)|null|
 |**2025-06-30**|**NEU-ESC: A Comprehensive Vietnamese dataset for Educational Sentiment analysis and topic Classification toward multitask learning**|Phan Quoc Hung Mai et.al.|[2506.23524](http://arxiv.org/abs/2506.23524)|null|
-|**2025-06-30**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520](http://arxiv.org/abs/2506.23520)|null|
+|**2025-07-01**|**ChemActor: Enhancing Automated Extraction of Chemical Synthesis Actions with LLM-Generated Data**|Yu Zhang et.al.|[2506.23520](http://arxiv.org/abs/2506.23520)|null|
 |**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|
 |**2025-06-30**|**LLM-enhanced Action-aware Multi-modal Prompt Tuning for Image-Text Matching**|Mengxiao Tian et.al.|[2506.23502](http://arxiv.org/abs/2506.23502)|null|
 |**2025-06-30**|**Thought-Augmented Planning for LLM-Powered Interactive Recommender Agent**|Haocheng Yu et.al.|[2506.23485](http://arxiv.org/abs/2506.23485)|null|
@@ -1215,7 +1215,7 @@ layout: default
 |**2025-06-29**|**VALID-Mol: a Systematic Framework for Validated LLM-Assisted Molecular Design**|Malikussaid et.al.|[2506.23339](http://arxiv.org/abs/2506.23339)|null|
 |**2025-06-29**|**XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs**|Yitian Gong et.al.|[2506.23325](http://arxiv.org/abs/2506.23325)|null|
 |**2025-06-29**|**GATSim: Urban Mobility Simulation with Generative Agents**|Qi Liu et.al.|[2506.23306](http://arxiv.org/abs/2506.23306)|null|
-|**2025-06-29**|**Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification**|Xing Shen et.al.|[2506.23298](http://arxiv.org/abs/2506.23298)|null|
+|**2025-07-01**|**Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification**|Xing Shen et.al.|[2506.23298](http://arxiv.org/abs/2506.23298)|null|
 |**2025-06-29**|**Two Spelling Normalization Approaches Based on Large Language Models**|Miguel Domingo et.al.|[2506.23288](http://arxiv.org/abs/2506.23288)|null|
 |**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
 |**2025-06-29**|**Autoregressive Denoising Score Matching is a Good Video Anomaly Detector**|Hanwen Zhang et.al.|[2506.23282](http://arxiv.org/abs/2506.23282)|null|
@@ -12574,7 +12574,7 @@ layout: default
 |**2025-06-29**|**RoboScape: Physics-informed Embodied World Model**|Yu Shang et.al.|[2506.23135](http://arxiv.org/abs/2506.23135)|null|
 |**2025-06-28**|**ActAlign: Zero-Shot Fine-Grained Video Classification via Language-Guided Sequence Alignment**|Amir Aghdam et.al.|[2506.22967](http://arxiv.org/abs/2506.22967)|null|
 |**2025-06-28**|**Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder**|Dang Jisheng et.al.|[2506.22880](http://arxiv.org/abs/2506.22880)|null|
-|**2025-06-28**|**Listener-Rewarded Thinking in VLMs for Image Preferences**|Alexander Gambashidze et.al.|[2506.22832](http://arxiv.org/abs/2506.22832)|null|
+|**2025-07-01**|**Listener-Rewarded Thinking in VLMs for Image Preferences**|Alexander Gambashidze et.al.|[2506.22832](http://arxiv.org/abs/2506.22832)|null|
 |**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
 |**2025-06-27**|**DIVE: Deep-search Iterative Video Exploration A Technical Report for the CVRR Challenge at CVPR 2025**|Umihiro Kamoto et.al.|[2506.21891](http://arxiv.org/abs/2506.21891)|null|
