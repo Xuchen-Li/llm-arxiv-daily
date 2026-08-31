@@ -24,17 +24,16 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
+        ESCAPE = '\"'
+        OR = 'OR'
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
                 filter = filters[idx]
                 if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
+                    ret += (ESCAPE + filter + ESCAPE)  
                 else:
-                    ret += (QUOTA + filter + QUOTA)   
+                    ret += filter
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
@@ -48,8 +47,8 @@ def load_config(config_file:str) -> dict:
     return config 
 
 def get_authors(authors, first_author = False):
-    output = str()
-    if first_author == False:
+    output = ""
+    if not first_author:
         output = ", ".join(str(author) for author in authors)
     else:
         output = authors[0]
@@ -60,8 +59,7 @@ def sort_papers(papers):
     keys.sort(reverse=True)
     for key in keys:
         output[key] = papers[key]
-    return output    
-import requests
+    return output
 
 def get_code_link(qword:str) -> str:
     """
@@ -394,3 +392,4 @@ if __name__ == "__main__":
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
+
