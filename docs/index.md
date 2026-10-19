@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.12
+## Updated on 2026.10.19
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
